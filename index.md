@@ -5,12 +5,12 @@ description: Ryan Sun is Assistant Professor in Biostatistics at University of T
 keywords: biostatistics, statistics, statistical genetics, survival analysis
 ---
 
-I am an Assistant Professor in the
+Currently I am an Assistant Professor in the
 [Department of Biostatistics](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/biostatistics.html)
 at the University of Texas MD Anderson Cancer Center.
 I grew up in [Columbia, MO](https://en.wikipedia.org/wiki/Columbia,_Missouri) and graduated from
 [Rock Bridge High School](https://www.cpsk12.org/rbhs).
-I received my BS in Applied Mathematics from Columbia University in 2012
+I then received my BS in Applied Mathematics from Columbia University in 2012
 and my PhD in Biostatistics from Harvard University in 2017.
 My PhD advisor was [Professor Xihong Lin](https://www.hsph.harvard.edu/xihong-lin/),
 and I also worked closely with [Professor Peter Kraft](https://www.hsph.harvard.edu/peter-kraft/),
