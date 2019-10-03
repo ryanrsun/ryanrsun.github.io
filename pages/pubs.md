@@ -56,13 +56,13 @@ Interpreting the benefit of frifluirdine/tipiracil in metastatic colorectal canc
 **Sun R**, Orkaby AO, Kim DH, Zhu H, Wei LJ. Interpreting non-inferiority of biodegradable- polymer stents to durable-polymer stents.
 *The Lancet* 2019; 393(10184): 1932-1933.
 
-**Sun R, Lee H, Wei LJ**. Interpreting the long-term prognostic value of total mesorectal excision plane quality in rectal adenocarcinoma.
+**Sun R**, Lee H, Wei LJ. Interpreting the long-term prognostic value of total mesorectal excision plane quality in rectal adenocarcinoma.
 *JAMA Surgery* 2019+.
 
 #### Currently or Previously Submitted
 **Sun R**\*, Xu M\*, Li X, Gaynor S, Zhou H, Bosse Y, ..., Lin X. Identification of inflammation and immune-related risk variants associated with squamous cell lung cancer.
 
-** Sun R**, Claggett BL, Tian L, Solomon Sd, Szczech L, Pfeffer MA, Wei LJ. On- treatment analysis for assessing the between-group difference in a comparative randomized clinical study.
+**Sun R**, Claggett BL, Tian L, Solomon Sd, Szczech L, Pfeffer MA, Wei LJ. On- treatment analysis for assessing the between-group difference in a comparative randomized clinical study.
 
 Park HR, Panganibana RA, **Sun R**, Shumyatcher M, Himes BE, Christiani DC, Lu Q. Protective effects of microRNA-124 on arsenic-induced endoplasmic reticulum stress and cytotoxicity in human neural cells and associations with neurodevelopmental outcomes in children.
 
