@@ -13,7 +13,7 @@ and my PhD in Biostatistics from Harvard University in 2017.
 My PhD advisor was [Professor Xihong Lin](https://www.hsph.harvard.edu/xihong-lin/),
 and I also worked closely with [Professor Peter Kraft](https://www.hsph.harvard.edu/peter-kraft/),
 [Professor LJ Wei](https://www.hsph.harvard.edu/l-wei/), and [Professor David Christiani](https://www.hsph.harvard.edu/david-christiani/).
-I joined MD Anderson in July 2019 after also completing my postdoctoral training at Harvard Biostatistics.
+I remained at Harvard for my postdoctoral training and joined MD Anderson in July 2019.
 
 My research interests lie in developing novel statistical methodology that enables researchers to extract knowledge and insights from increasingly complex biomedical datasets. I also emphasize applying these methods and disseminating the ideas to the broader biomedical research community. Currently I work heavily with genetics and genomics datasets to better understand the underlying causes of cancers and other diseases. In particular, I am focused on integrating different types of data, e.g. environmental, clinical, or other omics data, to better understand the genetic and genomic etiology of disease.
 
