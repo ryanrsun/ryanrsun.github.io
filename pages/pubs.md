@@ -19,7 +19,7 @@ Genome-wide gene by Pb exposure interaction analysis identifies UNC5D as a candi
 *Biometrics* 2018; 74(2): 653-662.
 
 Orkaby A, Rich MW, **Sun R**, Lux E, Wei LJ, Kim DH. Pravastin for primary prevention in older adults: restricted mean survival time analysis. 
-*Journal of the American Geriatric Society 2018; 66(10): 1987-1991.
+*Journal of the American Geriatric Society* 2018; 66(10): 1987-1991.
 
 **Sun R**, Hui S, Bader G, Lin X, Kraft P. 
 Powerful gene set analysis in GWAS with the Generalized Berk-Jones statistic. 
@@ -62,7 +62,7 @@ Interpreting the benefit of frifluirdine/tipiracil in metastatic colorectal canc
 #### Currently or Previously Submitted
 **Sun R**\*, Xu M\*, Li X, Gaynor S, Zhou H, Bosse Y, ..., Lin X. Identification of inflammation and immune-related risk variants associated with squamous cell lung cancer.
 
-**Sun R**, Claggett BL, Tian L, Solomon Sd, Szczech L, Pfeffer MA, Wei LJ. On- treatment analysis for assessing the between-group difference in a comparative randomized clinical study.
+**Sun R**, Claggett BL, Tian L, Solomon Sd, Szczech L, Pfeffer MA, Wei LJ. On-treatment analysis for assessing the between-group difference in a comparative randomized clinical study.
 
 Park HR, Panganibana RA, **Sun R**, Shumyatcher M, Himes BE, Christiani DC, Lu Q. Protective effects of microRNA-124 on arsenic-induced endoplasmic reticulum stress and cytotoxicity in human neural cells and associations with neurodevelopmental outcomes in children.
 
