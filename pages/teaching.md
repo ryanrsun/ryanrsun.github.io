@@ -4,8 +4,8 @@ title: Teaching
 description: Courses taught by Ryan Sun
 ---
 
-## Spring 2021: Survival Analysis, Tues/Thurs 10am
-
+## Spring 2021: Survival Analysis
+**Tues/Thurs 10am**<br/>
 **Notes**<br/>
 [Set 1: Parametric Inference]({{ BASE_PATH }}/assets/survival/notes/unit1.pdf)<br/>
 [Set 2: Censoring and Likelihood]({{ BASE_PATH }}/assets/survival/notes/unit2.pdf)<br/>
