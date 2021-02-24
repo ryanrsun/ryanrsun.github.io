@@ -30,7 +30,7 @@ the area under the curve up to 18 months, in both arms (don't use any packages o
 except to check your work). Then, calculate the 1-year survival of patients in both arms, as well as 
 a 95% confidence interval for this quantity (again, submit your own code, but you can use packages
 to check your work). Finally, plot the Kaplan-Meier curves, perform a log-rank test for difference
-in survival by treatment, and calculate a hazard ratio for the treatment (you can use existing packages for this last sentence).
+in survival by treatment, and calculate a hazard ratio for the treatment (you can use existing packages for this last sentence).<br/>
 Homework 3 (Email to me any time on Mar 2) - 10.2, 11.1, 11.5<br/>
 Also you are allowed to resubmit any incorrect answers from HW2 to regain lost points. If you do this, please make sure you are very clear about what has changed in your resubmission. If I am unable to read/understand the changes, I cannot make adjustments.
 
