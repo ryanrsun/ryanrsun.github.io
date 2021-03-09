@@ -19,7 +19,6 @@ description: Courses taught by Ryan Sun
 [Set 10: Martingales II]({{ BASE_PATH }}/assets/survival/notes/unit11.pdf)<br/>
 [Set 11: Martingales III]({{ BASE_PATH }}/assets/survival/notes/unit12.pdf)<br/>
 [Set 12: Martingale CLT]({{ BASE_PATH }}/assets/survival/notes/unit13.pdf)<br/>
-[Set 13: Review]({{ BASE_PATH }}/assets/survival/notes/unit14.pdf)<br/>
 **Homework**<br/>
 Homework 1 (Email to me before class on Jan 26) - 1.6, 1.7, 1.9, 1.10, 1.12, 2.2, 2.3, 2.6<br/>
 Homework 2 (Email to me before class on Feb 11) - 5.8, 5.11, 5.12, 6.6., 7.3, 7.7<br/>
@@ -32,6 +31,8 @@ a 95% confidence interval for this quantity (again, submit your own code, but yo
 to check your work). Finally, plot the Kaplan-Meier curves, perform a log-rank test for difference
 in survival by treatment, and calculate a hazard ratio for the treatment (you can use existing packages for this last sentence).<br/>
 Homework 3 (Email to me any time on Mar 2) - 10.2, 11.1, 11.5<br/>
-Also you are allowed to resubmit any incorrect answers from HW2 to regain lost points. If you do this, please make sure you are very clear about what has changed in your resubmission. If I am unable to read/understand the changes, I cannot make adjustments.
+Also you are allowed to resubmit any incorrect answers from HW2 to regain lost points. If you do this, please make sure you are very clear about what has changed in your resubmission. If I am unable to read/understand the changes, I cannot make adjustments.<br/>
 
+New class link: https://mdacc.zoom.us/j/89797585857?pwd=Ti9OK0lyTC9ONjZkUFRTYWNvdHRHZz09
+New Box link: https://mdacc.box.com/s/nif98il3wnurizos2fp0qbj9b15n6xcj
 
