@@ -27,7 +27,7 @@ Because colorectal cancer treatment plans depend critically on the presence or a
 mutations, it is important to further estimate a level of confidence in the KRAS finding from ctDNA.
 The KRAS false negative calculator provides that additional information.
 
-![KRAScalculator](../files/screenshot.png)
+![KRAScalculator](../files/krascalculator.png)
 
 ---
 
