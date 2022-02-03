@@ -27,7 +27,7 @@ Because colorectal cancer treatment plans depend critically on the presence or a
 mutations, it is important to further estimate a level of confidence in the KRAS finding from ctDNA.
 The KRAS false negative calculator provides that additional information.
 
-![Sankey plot](../files/screenshot.png)
+![KRAScalculator](../files/screenshot.png)
 
 ---
 
@@ -44,7 +44,7 @@ association between event times and a group of mutations, e.g. all mutations in 
 This more powerful strategy allows for aggregation of mutations into a sensible and interpretable biological construct
 while aggregating signals and lowering the multiple testing burden.
 
-![Sankey plot](../files/sankey203.png)
+![ICSKAT QQplot](../files/ICSKATqq.png)
 
 ---
 
