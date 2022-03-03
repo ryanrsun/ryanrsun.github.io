@@ -7,32 +7,32 @@ description: Ryan Sun's publications
 
 ### <a name="articles"></a>Journal Articles
 
-**Sun R**\*, Bouchard MB\*, Hillman EMC.
+**Sun, R.**\*, Bouchard, M.B.\*, Hillman, E.M.C.
 SPLASSH: open source software for camera-based high-speed, multispectral in-vivo optical image acquisition. 
 *Biomedical Optics Express 2010*; 1(2): 375-397.
 
-Wang Z, Claus-Henn B, Wang C, Wei Y, Su L, **Sun R**, Chen H, Wagner PJ, Lu Q, Lin x, Wright R, Bellinger D, Kile M, Mazumdar M, Tellez-Rojo MM, Schaas L, Christiani DC. 
+Wang, Z., Claus-Henn, B., Wang, C., Wei, Y., Su, L., **Sun, R.**, Chen, H., Wagner, P.J., Lu, Q., Lin, X., Wright, R., Bellinger, D., Kile, M., Mazumdar, M., Tellez-Rojo, M.M., Schaas, L., Christiani, D.C. 
 Genome-wide gene by Pb exposure interaction analysis identifies UNC5D as a candidate gene for neurodevelopment.
 *Environmental Health* 2-17; 16(1): 81.
 
-**Sun R**, Carroll RJ, Christiani DC, Lin X. Testing for gene-environment interaction under exposure misspecification.
+**Sun, R.**, Carroll, R.J., Christiani, D.C., Lin, X. Testing for gene-environment interaction under exposure misspecification.
 *Biometrics* 2018; 74(2): 653-662.
 
-Orkaby A, Rich MW, **Sun R**, Lux E, Wei LJ, Kim DH. Pravastin for primary prevention in older adults: restricted mean survival time analysis. 
+Orkaby, A., Rich, M.W., **Sun, R.**, Lux, E., Wei, L.J., Kim, D.H. Pravastin for primary prevention in older adults: restricted mean survival time analysis. 
 *Journal of the American Geriatric Society* 2018; 66(10): 1987-1991.
 
-**Sun R**, Wang Z, Claus-Henn B, Su L, Lu Q, Lin X, Wright R, Bellinger D, Kile M, Mazumdar M, Tellez-Rojo MM, Schnaas L, Christiani DC. 
+**Sun, R.**, Wang, Z., Claus-Henn, B., Su, L., Lu, Q., Lin, X., Wright, R., Bellinger, D., Kile, M., Mazumdar, M., Tellez-Rojo, M.M., Schnaas, L., Christiani, D.C. 
 Identification of novel loci associated with infant cognitive ability. 
 *Molecular Psychiatry* Molecular Psychiatry 2018; 1-10.
 
-**Sun R**, Hui S, Bader G, Lin X, Kraft P.
+**Sun, R.**, Hui, S., Bader, G., Lin, X., Kraft, P.
 Powerful gene set analysis in GWAS with the Generalized Berk-Jones statistic.
 *PLOS Genetics* 2019; 15(3): e1007530.
 
-Gaynor S\*; **Sun R**\*, Lin X, Quackenbush J. Identification of differentially expressed gene sets using the Generalized Berk-Jones statistic.
+Gaynor, S.\*; **Sun, R.**\*, Lin, X., Quackenbush, J. Identification of differentially expressed gene sets using the Generalized Berk-Jones statistic.
 *Bioinformatics* 2019; 35(22): 4568-4576.
 
-**Sun R**, Lin X. Set-based tests for genetic association using the Generalized Berk-Jones statistic.
+**Sun, R.**, Lin, X. Set-based tests for genetic association using the Generalized Berk-Jones statistic.
 *Journal of the American Statistical Association* 2020; 115(53): 1079-1091.
 
 Park, H-R., Panganibana, R.A., **Sun, R.**, Shumyatcher, M., Himes, B.E., Christiani, D.C., Lu, Q. 
@@ -96,26 +96,26 @@ A multi-dimensional integrative scoring framework for predicting functional vari
 
 #### Published Correspondence
 
-**Sun R**, Horiguchi M, Wei LJ.
+**Sun, R.**, Horiguchi, M., Wei, L.J.
 Interpreting the benefit of frifluirdine/tipiracil in metastatic colorectal cancer with respect to progression-free survival and overall survival.
 *Journal of Clinical Oncology* 2018; 36(13): 1378.
 
-**Sun R**, Rich MW, Wei LJ.  Pembrolizumab plus chemotherapy in lung cancer.
+**Sun, R.**, Rich, M.W., Wei, L.J.  Pembrolizumab plus chemotherapy in lung cancer.
 *New England Journal of Medicine* 2018; 379(11): e18.
 
-**Sun R**, Nie L, Huang B, Kim DH, Wei LJ. Quantifying immunoscore performance.
+**Sun, R.**, Nie, L., Huang, B., Kim, D.H., Wei, L.J. Quantifying immunoscore performance.
 *The Lancet* 2018; 392(10158): 1624.
 
-**Sun R**, Wei LJ. Regional Hyperthermia With Neoadjuvant Chemotherapy for Treatment of Soft Tissue Sarcoma.
+**Sun, R.**, Wei, L.J. Regional Hyperthermia With Neoadjuvant Chemotherapy for Treatment of Soft Tissue Sarcoma.
 *JAMA Oncology* 2019; 5(1): 112-113.
 
-**Sun R**, Zhu H, Wei LJ. Assessing the prognostic value of automated bone scan index in prostate cancer.
+**Sun, R.**, Zhu, H., Wei, L.J. Assessing the prognostic value of automated bone scan index in prostate cancer.
 *JAMA Oncology* 2019; 5(2): 270.
 
-**Sun R**, Orkaby AO, Kim DH, Zhu H, Wei LJ. Interpreting non-inferiority of biodegradable- polymer stents to durable-polymer stents.
+**Sun, R.**, Orkaby, A.O., Kim, D.H., Zhu, H., Wei, L.J. Interpreting non-inferiority of biodegradable- polymer stents to durable-polymer stents.
 *The Lancet* 2019; 393(10184): 1932-1933.
 
-**Sun R**, Lee H, Wei LJ. Interpreting the long-term prognostic value of total mesorectal excision plane quality in rectal adenocarcinoma.
+**Sun, R.**, Lee, H., Wei, L.J. Interpreting the long-term prognostic value of total mesorectal excision plane quality in rectal adenocarcinoma.
 *JAMA Surgery* 2019; 154(1): 96.
 
 **Sun, R.**, Kim, D.H., and Wei, L.J. Analysis of overall survival benefit of abemaciclib plus fulvestrant in hormone receptor-positive, ERBB-2 negative breast cancer. 
