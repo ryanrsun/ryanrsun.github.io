@@ -17,11 +17,15 @@ Also computes the Generalized Higher Criticism and Minimum p-value statistics.  
 
 ---
 
-#### <a name="reconstructKM"></a>[R/reconstructKM](https://cran.r-project.org/web/packages/ICSKAT/index.html) 
+#### <a name="reconstructKM"></a>[R/reconstructKM](https://cran.r-project.org/web/packages/reconstructKM/index.html) 
 
 An [R](https://www.r-project.org/) package to reconstruct individual-level data from Kaplan-Meier plots published in academic journals. Current developmental version is also available at [Github](https://www.github.com/ryanrsun/reconstructKM).
 
-
+---
+ 
+#### <a name="ICSKAT"></a>[R/ICSKAT](https://cran.r-project.org/web/packages/ICSKAT/index.html) 
+ 
+ An [R](https://www.r-project.org/) package to perform the interaval-censored sequence kernel association test. Current developmental version is also available at [Github](https://www.github.com/ryanrsun/ICSKAT).
 
 
 
