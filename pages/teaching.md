@@ -33,6 +33,10 @@ in survival by treatment, and calculate a hazard ratio for the treatment (you ca
 Homework 3 (Email to me any time on Mar 2) - 10.2, 11.1, 11.5<br/>
 Also you are allowed to resubmit any incorrect answers from HW2 to regain lost points. If you do this, please make sure you are very clear about what has changed in your resubmission. If I am unable to read/understand the changes, I cannot make adjustments.<br/>
 
-New class link: https://mdacc.zoom.us/j/89797585857?pwd=Ti9OK0lyTC9ONjZkUFRTYWNvdHRHZz09
-New Box link: https://mdacc.box.com/s/nif98il3wnurizos2fp0qbj9b15n6xcj
+## Spring 2023: Survival Analysis
+**Monday/Wednesday 10:30am BSRB S3.8351**<br/>
+**Notes**<br/>
+Please see above<br/>
+**Homework**<br/>
+TBA
 
