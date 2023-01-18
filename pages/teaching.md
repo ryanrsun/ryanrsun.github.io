@@ -38,5 +38,4 @@ Also you are allowed to resubmit any incorrect answers from HW2 to regain lost p
 **Notes**<br/>
 Please see above<br/>
 **Homework**<br/>
-TBA
-
+Homework 1 (Email to me by end of day Jan 27) - 1.6, 1.7, 1.9, 1.10, 1.12, 2.2, 2.3, 2.6<br/>
