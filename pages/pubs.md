@@ -25,7 +25,7 @@ Orkaby, A., Rich, M.W., **Sun, R.**, Lux, E., Wei, L.J., Kim, D.H. Pravastin for
 
 **Sun, R.**, Wang, Z., Claus-Henn, B., Su, L., Lu, Q., Lin, X., Wright, R., Bellinger, D., Kile, M., Mazumdar, M., Tellez-Rojo, M.M., Schnaas, L., Christiani, D.C. 
 Identification of novel loci associated with infant cognitive ability. 
-*Molecular Psychiatry* Molecular Psychiatry 2018; 1-10.
+*Molecular Psychiatry* 2018; 1-10.
 
 **Sun, R.**, Hui, S., Bader, G., Lin, X., Kraft, P.
 Powerful gene set analysis in GWAS with the Generalized Berk-Jones statistic.
