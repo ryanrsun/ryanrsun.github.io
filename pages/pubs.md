@@ -7,6 +7,8 @@ description: Ryan Sun's publications
 
 ### <a name="articles"></a>Journal Articles
 
+\*Indicates equal contribution as first authors.
+
 **Sun, R.**\*, Bouchard, M.B.\*, Hillman, E.M.C.
 SPLASSH: open source software for camera-based high-speed, multispectral in-vivo optical image acquisition. 
 *Biomedical Optics Express 2010*; 1(2): 375-397.
@@ -136,9 +138,9 @@ Strati, P., Jallouk, A., Deng, Q., Li, X., Feng, L., **Sun, R.**, Adkins, S., Jo
 
 #### Papers Receiving Peer Review
 
-*Sun, R.*, McCaw, Z., Lin, X. Large-scale testing of composite null hypothesis in genetic asso- ciation studies. In revision for Journal of the American Statistical Association.
+Sun, R., McCaw, Z., Lin, X. Large-scale testing of composite null hypothesis in genetic asso- ciation studies. In revision for Journal of the American Statistical Association.
 
-Choi, J., Xu, Z., *Sun, R.* Set-based inference for multiple interval-censored outcomes in genetic association studies. In revision for Statistics in Medicine.
+Choi, J., Xu, Z., Sun, R. Set-based inference for multiple interval-censored outcomes in genetic association studies. In revision for Statistics in Medicine.
 
 #### Published Correspondence
 
@@ -184,7 +186,3 @@ Interpreting the benefit of frifluirdine/tipiracil in metastatic colorectal canc
 
 
 
-
-
-
-\*Indicates equal contribution as first authors.
