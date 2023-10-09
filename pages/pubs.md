@@ -136,6 +136,10 @@ Wang, H., Moniruzzaman, R., Li, L., Ji, B., Liu, Y., Zuo, X., Abbasgholizadeh, R
 
 Strati, P., Jallouk, A., Deng, Q., Li, X., Feng, L., **Sun, R.**, Adkins, S., Johncy, S., Cain, T., Steiner, R.E., Ahmed, S. A phase 1 study of prophylactic anakinra to mitigate ICANS in patients with large b-cell lymphoma. *Blood Advances* 2023+ (in press)
 
+Antonoff, M.B., Kui, N., **Sun, R.**, Deboever, N., Hofstetter, W., Mehran, R.J., Morris, V.K., Rice, D.C., Swisher, S.G., Vaporciyan, A.A., Walsh, G.L., Rajaram, R. Factors associated with receipt of pulmonary metastasectomy in patients with lung-limited metastatic colorectal cancer: disparities in care and impact on overall survival. *The Journal of Thoracic and Cardiovascular Surgery* 2023+ (in press)
+
+Sherry, A.D., Msaouel, P., McCaw, Z., Jaoude, J.A., Hsu, E.J., Kouzy, R., Patel, R., Yang, Y., Lin, T.A., Taniguchi, C., Rodel, C., Fokas, E., Tang, C., Fuller, C.D., Minsky, B., Meirson, T., **Sun, R.**, Ludmir, E.B. Prevalence and implications of significance testing for baseline covariate imbalance in randomised cancer clinical trials: the table 1 fallacy. *European Journal of Cancer* 2023+ (in press)
+
 #### Papers Receiving Peer Review
 
 Sun, R., McCaw, Z., Lin, X. Large-scale testing of composite null hypothesis in genetic asso- ciation studies. In revision for Journal of the American Statistical Association.
