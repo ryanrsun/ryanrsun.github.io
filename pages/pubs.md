@@ -6,7 +6,7 @@ description: Ryan Sun's publications
 
 ### <a name="articles"></a>Summary
 Below are a brief summary of first-author, last-author, and other statistical methodology publications.
-For a full list of publications, including all collaborative works, please see the CV.
+For a full list of publications, including all collaborative works and all first-author Correspondence, please see the [CV ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun_oct23.pdf)<br/>.
 
 \*Indicates equal contribution as first authors.
 \#Indicates author was a trainee working with me when writing the paper.
@@ -59,7 +59,7 @@ Zhu, L, Tong, X, Cai, D, Li, Y, Sun, R, Srivastava, DK, Hudson, MM. Maximum like
 
 Choi J\#, Xu Z\#, **Sun R**. Variance-components tests for genetic association with multiple interval-censored outcomes. *Stat Med*. 2024 Jun 15; 43(13):2560-2574. PMID: 38636557.
 
-Xu Z<sup>\#<sup>, Choi J<sup>\#<sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
+Xu Z<sup>\#</sup>, Choi J<sup>\#</sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
 
 ### <a name="articles"></a> Application of advanced statistical methodology in translational biomedical research
 
