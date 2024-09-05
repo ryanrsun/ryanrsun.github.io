@@ -51,7 +51,7 @@ Zhu H<sup>\#</sup>, Choi J<sup>\#</sup>, Kui N<sup>\#</sup>, Yang T, Wei P, Li D
 
 These tools offer the ability to associate high-dimensional omic data with the interval-censored time-to-event outcomes that are often found in massive modern genetic compendiums such as the UK Biobank. The interval-censored outcomes are common and arise from the dependence of these compendiums on periodic health questionnaires, which are a cost-effective approach for collecting large amounts of health data on hundreds of thousands of subjects.
 
-Zhu, L, Tong, X, Cai, D, Li, Y, Sun, R, Srivastava, DK, Hudson, MM. Maximum likelihood estimation for the proportional odds model with mixed interval-censored failure time data. J Appl Stat. 2020 Jan 01; :1-17. PMID: 34349336.
+Zhu, L, Tong, X, Cai, D, Li, Y, **Sun, R**, Srivastava, DK, Hudson, MM. Maximum likelihood estimation for the proportional odds model with mixed interval-censored failure time data. J Appl Stat. 2020 Jan 01; :1-17. PMID: 34349336.
 
 **Sun R**, Zhu L, Li Y, Yasui Y, Robison L. Inference for Set-Based Effects in Genetic Association Studies with Interval Censored Outcomes. *Biometrics*. 2023 Jun 01; 79(2):1573-1585. PMID: 35165890.
 
