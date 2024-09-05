@@ -17,7 +17,7 @@ I remained at Harvard for my postdoctoral training and joined MD Anderson in Jul
 
 My research interests lie in developing novel statistical methodology that enables researchers to extract knowledge and insights from increasingly complex biomedical datasets. I also emphasize applying these methods and disseminating the ideas to the broader biomedical research community. Currently I work heavily with genetics and genomics datasets to better understand the underlying causes of cancers and other diseases. In particular, I am focused on integrating different types of data, e.g. environmental, clinical, or other omics data, to better understand the genetic and genomic etiology of disease. Please see the [Research](pages/pubs.md) page for short summaries of these research areas.
 
-[Curriculum Vitae ![CV as pdf](pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun_aug2024.pdf)<br/>
+[Curriculum Vitae ![CV as pdf](pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun-aug2024.pdf)<br/>
 [Orcid](https://orcid.org): [0000-0003-1176-1561](https://orcid.org/0000-0003-1176-1561)<br/>
 [Github](https://github.com/ryanrsun)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=9odeJa0AAAAJ&hl=en)<br/>
