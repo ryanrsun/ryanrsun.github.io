@@ -59,11 +59,11 @@ Zhu, L, Tong, X, Cai, D, Li, Y, Sun, R, Srivastava, DK, Hudson, MM. Maximum like
 
 Choi J\#, Xu Z\#, **Sun R**. Variance-components tests for genetic association with multiple interval-censored outcomes. *Stat Med*. 2024 Jun 15; 43(13):2560-2574. PMID: 38636557.
 
-Xu Z\#, Choi J\#, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
+Xu Z<sup>\#<\sup>, Choi J<sup>\#<\sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
 
 ### <a name="articles"></a> Application of advanced statistical methodology in translational biomedical research
 
-This work includes a number of translational biomedical projects that demonstrate how to use more advanced statistical methodology to explore biological questions.
+This work includes a number of translational biomedical projects that demonstrate how to use more advanced statistical methodology to explore both new and existing biological questions.
 
 **Sun R**, Wang Z, Claus Henn B, Su L, Lu Q, Lin X, Wright RO, Bellinger DC, Kile M, Mazumdar M, Tellez-Rojo MM, Schnaas L, Christiani DC. Identification of novel loci associated with infant cognitive ability. *Mol Psychiatry*. 2020 Nov 01; 25(11):3010-3019. PMID: 30120420.
 
