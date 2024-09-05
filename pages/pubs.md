@@ -6,10 +6,10 @@ description: Ryan Sun's publications
 
 ### <a name="articles"></a>Summary
 Below are a brief summary of first-author, last-author, and other statistical methodology publications.
-For a full list of publications, including all collaborative works and all first-author Correspondence, please see the [CV ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun_oct23.pdf)<br/>.
+For a full list of publications, including all collaborative works and all Correspondence, please see the [CV ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun_oct23.pdf)<br/>.
 
-\*Indicates equal contribution as first authors.
-\#Indicates author was a trainee working with me when writing the paper.
+\*Indicates equal contribution as first authors. \\
+\#Indicates work done by trainee.
 
 ### <a name="articles"></a>Identification of rare and weak omic risk factors in disease
 
@@ -21,11 +21,11 @@ known to possess rare and weak effects that are difficult to detect.
 
 **Sun R**, Hui S, Bader GD, Lin X, Kraft P. Powerful gene set analysis in GWAS with the Generalized Berk-Jones statistic. *PLoS Genet*. 2019 Mar 01; 15(3):e1007530. PMID: 30875371.
 
+Gaynor SM\*, **Sun R**\*, Lin X, Quackenbush J. Identification of differentially expressed gene sets using the Generalized Berk-Jones statistic. *Bioinformatics*. 2019 Nov 01; 35(22):4568-4576. PMID: 31062858.
+
 **Sun R**, Lin X. Genetic Variant Set-Based Tests Using the Generalized Berk-Jones Statistic with Application to a Genome-Wide Association Study of Breast Cancer. *J Am Stat Assoc*. 2020 Jan 01; 115(531):1079-1091. PMID: 33041403.
 
 **Sun R**, Shi A, Lin X. Differences in set-based tests for sparse alternatives when testing sets of outcomes compared to sets of explanatory factors in genetic association studies. *Biostatistics*. 2024 Jan 01; 25(1):171-187. PMID: 36000269.
-
-Gaynor SM\*, **Sun R**\*, Lin X, Quackenbush J. Identification of differentially expressed gene sets using the Generalized Berk-Jones statistic. *Bioinformatics*. 2019 Nov 01; 35(22):4568-4576. PMID: 31062858.
 
 Li, Z, Li, X, Zhou, H, Gaynor, SM, Selvaraj, MS, Arapoglou, T, Quick, C, Liu, Y, Chen, H, **Sun, R**, Dey, R, Arnett, DK, Auer, PL, Bielak, LF, Bis, JC, Blackwell, T, Blangero, J, Boerwinkle, E, Bowden, DW, Brody, JA, Cade, BE, Conomos, MP, Correa, A, Cupples, LA, Curran, JE, de Vries, PS, Duggirala, R, Franceschini, N, Freedman, BI, G ̈oring, HH, Guo, X, Kalyani, RR, Kooperberg, C, Kral, BG, Lange, LA, Lin, BM, Manichaikul, AW, Manning, AK, Martin, LW, Mathias, R, Meigs, JB, Mitchell, BD, Montasser, ME, Morrison, AC, Naseri, T, O’connell, Jr, Palmer, ND, Peyser, PA, Psaty, BM, Raffield, LM. A framework for detecting noncoding rare-variant associations of large-scale whole-genome sequencing studies. *Nat Methods*. 2022 Dec 01; PMID: 36303018.
 
@@ -43,7 +43,7 @@ Li X, Li Z, Zhou H, Gaynor SM, Liu Y, Chen H, **Sun R**, Dey R, Arnett DK, Aslib
 
 Li X, Yung G, Zhou H, **Sun R**, Li Z, Hou K, Zhang MJ, Liu Y, Arapoglou T, Wang C, Ionita- Laza I, Lin X. A multi-dimensional integrative scoring framework for predicting functional variants in the human genome. *Am J Hum Genet*. 2022 Mar 01; 109(3):446-456. PMID: 35216679.
 
-Zhu H\#, Choi J\#, Kui N\#, Yang T, Wei P, Li D, **Sun R**. Identification of pancreatic cancer germline risk variants with effects that are modified by smoking. *JCO Precis Oncol*. 2024 Mar; 8:e2300355. PMID: 38564682.
+Zhu H<sup>\#</sup>, Choi J<sup>\#</sup>, Kui N<sup>\#</sup>, Yang T, Wei P, Li D, **Sun R**. Identification of pancreatic cancer germline risk variants with effects that are modified by smoking. *JCO Precis Oncol*. 2024 Mar; 8:e2300355. PMID: 38564682.
 
 **Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. In revision for Journal of the American Statistical Association. https://arxiv.org/abs/2309.12584.
 
@@ -57,7 +57,7 @@ Zhu, L, Tong, X, Cai, D, Li, Y, Sun, R, Srivastava, DK, Hudson, MM. Maximum like
 
 **Sun R**, Sun D, Zhu L, Sun J. Regression analysis of general mixed recurrent event data. *Lifetime Data Anal*. 2023 Oct 01; 29(4):807-822. PMID: 37438585.
 
-Choi J\#, Xu Z\#, **Sun R**. Variance-components tests for genetic association with multiple interval-censored outcomes. *Stat Med*. 2024 Jun 15; 43(13):2560-2574. PMID: 38636557.
+Choi J<sup>\#</sup>, Xu Z<sup>\#</sup>, **Sun R**. Variance-components tests for genetic association with multiple interval-censored outcomes. *Stat Med*. 2024 Jun 15; 43(13):2560-2574. PMID: 38636557.
 
 Xu Z<sup>\#</sup>, Choi J<sup>\#</sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
 
