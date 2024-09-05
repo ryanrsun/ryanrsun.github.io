@@ -1,192 +1,84 @@
 ---
 layout: page
-title: Publications
+title: Research
 description: Ryan Sun's publications
 ---
 
-
-### <a name="articles"></a>Journal Articles
+### <a name="articles"></a>Summary
+Below are a brief summary of first-author, last-author, and other statistical methodology publications.
+For a full list of publications, including all collaborative works, please see the CV.
 
 \*Indicates equal contribution as first authors.
+\#Indicates author was a trainee working with me when writing the paper.
 
-**Sun, R.**\*, Bouchard, M.B.\*, Hillman, E.M.C.
-SPLASSH: open source software for camera-based high-speed, multispectral in-vivo optical image acquisition. 
-*Biomedical Optics Express 2010*; 1(2): 375-397.
+### <a name="articles"></a>Identification of rare and weak omic risk factors in disease
 
-Wang, Z., Claus-Henn, B., Wang, C., Wei, Y., Su, L., **Sun, R.**, Chen, H., Wagner, P.J., Lu, Q., Lin, X., Wright, R., Bellinger, D., Kile, M., Mazumdar, M., Tellez-Rojo, M.M., Schaas, L., Christiani, D.C. 
-Genome-wide gene by Pb exposure interaction analysis identifies UNC5D as a candidate gene for neurodevelopment.
-*Environmental Health* 2-17; 16(1): 81.
+This work offers researchers more powerful methods to identify omic features that perturb disease
+risk across a variety of phenotypes and a variety of omic platforms. Such risk factors are often
+known to possess rare and weak effects that are difficult to detect. 
 
-**Sun, R.**, Carroll, R.J., Christiani, D.C., Lin, X. Testing for gene-environment interaction under exposure misspecification.
-*Biometrics* 2018; 74(2): 653-662.
+**Sun R**, Carroll RJ, Christiani DC, Lin X. Testing for gene-environment interaction under exposure misspecification. *Biometrics*. 2018 Jun 01; 74(2):653-662. PMID: 29120492.
 
-Orkaby, A., Rich, M.W., **Sun, R.**, Lux, E., Wei, L.J., Kim, D.H. Pravastin for primary prevention in older adults: restricted mean survival time analysis. 
-*Journal of the American Geriatric Society* 2018; 66(10): 1987-1991.
+**Sun R**, Hui S, Bader GD, Lin X, Kraft P. Powerful gene set analysis in GWAS with the Generalized Berk-Jones statistic. *PLoS Genet*. 2019 Mar 01; 15(3):e1007530. PMID: 30875371.
 
-**Sun, R.**, Wang, Z., Claus-Henn, B., Su, L., Lu, Q., Lin, X., Wright, R., Bellinger, D., Kile, M., Mazumdar, M., Tellez-Rojo, M.M., Schnaas, L., Christiani, D.C. 
-Identification of novel loci associated with infant cognitive ability. 
-*Molecular Psychiatry* 2018; 1-10.
+**Sun R**, Lin X. Genetic Variant Set-Based Tests Using the Generalized Berk-Jones Statistic with Application to a Genome-Wide Association Study of Breast Cancer. *J Am Stat Assoc*. 2020 Jan 01; 115(531):1079-1091. PMID: 33041403.
 
-**Sun, R.**, Hui, S., Bader, G., Lin, X., Kraft, P.
-Powerful gene set analysis in GWAS with the Generalized Berk-Jones statistic.
-*PLOS Genetics* 2019; 15(3): e1007530.
+**Sun R**, Shi A, Lin X. Differences in set-based tests for sparse alternatives when testing sets of outcomes compared to sets of explanatory factors in genetic association studies. *Biostatistics*. 2024 Jan 01; 25(1):171-187. PMID: 36000269.
 
-Gaynor, S.\*; **Sun, R.**\*, Lin, X., Quackenbush, J. Identification of differentially expressed gene sets using the Generalized Berk-Jones statistic.
-*Bioinformatics* 2019; 35(22): 4568-4576.
+Gaynor SM\*, **Sun R**\*, Lin X, Quackenbush J. Identification of differentially expressed gene sets using the Generalized Berk-Jones statistic. *Bioinformatics*. 2019 Nov 01; 35(22):4568-4576. PMID: 31062858.
 
-**Sun, R.**, Lin, X. Set-based tests for genetic association using the Generalized Berk-Jones statistic.
-*Journal of the American Statistical Association* 2020; 115(53): 1079-1091.
+Li, Z, Li, X, Zhou, H, Gaynor, SM, Selvaraj, MS, Arapoglou, T, Quick, C, Liu, Y, Chen, H, **Sun, R**, Dey, R, Arnett, DK, Auer, PL, Bielak, LF, Bis, JC, Blackwell, T, Blangero, J, Boerwinkle, E, Bowden, DW, Brody, JA, Cade, BE, Conomos, MP, Correa, A, Cupples, LA, Curran, JE, de Vries, PS, Duggirala, R, Franceschini, N, Freedman, BI, G ̈oring, HH, Guo, X, Kalyani, RR, Kooperberg, C, Kral, BG, Lange, LA, Lin, BM, Manichaikul, AW, Manning, AK, Martin, LW, Mathias, R, Meigs, JB, Mitchell, BD, Montasser, ME, Morrison, AC, Naseri, T, O’connell, Jr, Palmer, ND, Peyser, PA, Psaty, BM, Raffield, LM. A framework for detecting noncoding rare-variant associations of large-scale whole-genome sequencing studies. *Nat Methods*. 2022 Dec 01; PMID: 36303018.
 
-Park, H-R., Panganibana, R.A., **Sun, R.**, Shumyatcher, M., Himes, B.E., Christiani, D.C., Lu, Q. 
-MicroRNA-124 protects neural cells against arsenic-induced endoplasmic reticulum stress and cytotoxicity in vitro and is associated with neurodevelopmental outcomes in children. *Scientific Reports* 2020; 10(1): 1-11.
+Li, X, Quick, C, Zhou, H, Gaynor, SM, Liu, Y, Chen, H, Selvaraj, MS, **Sun, R**, Dey, R, Arnett, DK, Bielak, LF, Bis, JC, Blangero, J, Boerwinkle, E, Bowden, DW, Brody, JA, Cade, BE, Correa, A, Cupples, LA, Curran, JE, de Vries, PS, Duggirala, R, Freedman, BI, G ̈oring, HH, Guo, X, Haessler, J, Kalyani, RR, Kooperberg, C, Kral, BG, Lange, LA, Manichaikul, AW, Martin, LW, McGarvey, ST, Mitchell, BD, Montasser, ME, Morrison, AC, Naseri, T, O’Connell, JR, Palmer, ND, Peyser, PA, Psaty, BM, Raffield, LM, Redline, S, Reiner, AP, Reupena, MS, Rice, K, Rich, SS, Sitlani, CM, Smith, JA, Menon, VK. Powerful, scalable and resource-efficient meta-analysis of rare variant associations in large whole genome sequencing studies. *Nat Genet*. 2023 Jan; 55(1):154-164. PMID: 36564505.
 
-Li, X., Li, Z., Zhou, H., Gaynor, S., Liu, Y., Chen, H., **Sun, R.**, ..., Lin, X.
-Dynamic incorporation of multiple in-silico functional annotations empowers rare variant association analysis of large whole genome sequencing studies at scale. *Nature Genetics* 2020; 52(9): 969-983.
+McCaw ZR, Gaynor SM, **Sun R**, Lin X. Leveraging a surrogate outcome to improve inference on a partially missing target outcome. *Biometrics*. 2023 Jun 01; 79(2):1472-1484. PMID: 35218565.
 
-Colina, A., Hwang H., Wang, H., Katz, M., **Sun, R.**, Lee, J., Tzeng, C., Wolff, R., Raghav, K., Overman, M. 
-Natural history and prognostic factors for localized small bowel adenocarcinoma. *ESMO Open* 2020; 5(6): e000960.
+### <a name="articles"></a>Integration of high-dimensional omic data to characterize biological processes
 
-Deng, Q., Han, G., Puebla-Osorio, N., Ma, M.C.J., Strati, P., Chasen, B., Dai, E., Dang, M., Jain, N., Yang, H., Wang, Y., Zhang, S., Wang, R., Chen, R., Showell, H., Ghosh, S., Patchva, S., Zhang, Q., **Sun, R.**, ..., Green, M.R.
-Characteristics of anti-CD19 CAR T-cell infusion products associated with efficacy and toxicity in patients with large B-cell lymphomas. *Nature Medicine* 2020; 26(12): 18878-1887
+This work describes techniques to integrate high-dimensional omic data in interpretable models that move beyond association analysis and explain the biological pathways involved. For instance, instead of only associating genetic variants with disease, we can explain how those genetic variants influence disease risk by regulating expression of certain risk genes.
 
-Zhu, L., Cai, D., Li, Y., Tong, X., **Sun, R.**, Srivastava, D., Hudson, M. 
-Maximum likelihood estimation for the proportional odds model with mixed interval-censored failure time data. *Journal of Applied Statistics* 2021; 48(8):1496-1512.
+Li X, Li Z, Zhou H, Gaynor SM, Liu Y, Chen H, **Sun R**, Dey R, Arnett DK, Aslibekyan S, Ballantyne CM, Bielak LF, Blangero J, Boerwinkle E, Bowden DW, Broome JG, Conomos MP, Correa A, Cupples LA, Curran JE, Freedman BI, Guo X, Hindy G, Irvin MR, Kardia SLR, Kathire- san S, Khan AT, Kooperberg CL, Laurie CC, Liu XS, Mahaney MC, Manichaikul AW, Martin LW, Mathias RA, McGarvey ST, Mitchell BD, Montasser ME, Moore JE, Morrison AC, O’Connell JR, Palmer ND, Pampana A, Peralta JM, Peyser PA, Psaty BM, Redline S, Rice KM, Rich SS, Smith JA, Tiwari HK, Tsai MY, Vasan RS, Wang FF, Weeks DE, Weng Z, Wilson JG, Yanek LR, (TOPMed) Consortium NTFPM, Working Group TL, Neale BM, Sunyaev SR, Abecasis GR, Rotter JI, Willer CJ, Peloso GM, Natarajan P, Lin X. Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. *Nat Genet*. 2020 Sep 01; 52(9):969-983. PMID: 32839606.
 
-**Sun, R.**, Xu, M., Li, X., Gaynor, S., Zhou, H., Bosse, Y., Lam, S., Tsao, M., Tardon, A., Chen, C., Doherty, J., Goodman, G., Egil Bojesen, S., Teresa, M.T., Johansson, M., Field, J.K., Bickeboller, H., Wichmann, H., Risch, A., Rennert, G., Arnold, S., Wu, X., Melander, O., Brunnstr ̈om, H., Marchand, L.L., Zong, X., Liu, G., Andrew, A., Duell, E., Kiemeney, L.A., Shen, H., Haugen, A., Johansson, M., Grankvist, K., Caporaso, N., Woll, P., Teare, M.D., Scelo, G., Hong, Y., Yuan, J., Lazarus, P., Schabath, M.B., Aldrich, M.C., Albanes, D., Brennan, P., Barbie, D., Mak, R., Hung, R.J., Amos, C.I., Christiani, D.C., Lin, X. 
-Identification of inflammation and immune-related risk variants associated with squamous cell lung cancer. *Genetic Epidemiology* 2021; 45(1): 99-114.
+**Sun R**, Xu M, Li X, Gaynor S, Zhou H, Li Z, Boss ́e Y, Lam S, Tsao MS, Tardon A, Chen C, Doherty J, Goodman G, Bojesen SE, Landi MT, Johansson M, Field JK, Bickeboller H, Wichmann HE, Risch A, Rennert G, Arnold S, Wu X, Melander O, Brunnstr ̈om H, Le Marchand L, Liu G, Andrew A, Duell E, Kiemeney LA, Shen H, Haugen A, Johansson M, Grankvist K, Caporaso N, Woll P, Dawn Teare M, Scelo G, Hong YC, Yuan JM, Lazarus P, Schabath MB, Aldrich MC, Albanes D, Mak R, Barbie D, Brennan P, Hung RJ, Amos CI, Christiani DC, Lin X. Integration of multiomic annotation data to prioritize and characterize inflammation and immune-related risk variants in squamous cell lung cancer. *Genet Epidemiol*. 2021 Feb 01; 45(1):99-114. PMID: 32924180.
 
-Kim, D., Li, X., Bian, S., Wei, L.J., **Sun, R**. 
-Effect of dementia drugs on nursing home placement: what is the meaningful metric? *JAMA Network Open* 2021; 4(1): e2034745.
+Li X, Yung G, Zhou H, **Sun R**, Li Z, Hou K, Zhang MJ, Liu Y, Arapoglou T, Wang C, Ionita- Laza I, Lin X. A multi-dimensional integrative scoring framework for predicting functional variants in the human genome. *Am J Hum Genet*. 2022 Mar 01; 109(3):446-456. PMID: 35216679.
 
-Strati, S., Ahmed, S., Furqan, F., ..., **Sun, R.**, Claussen, C., Hawkins, M., Johnson, N., Singh, P., Mistry, H., Johncy, S., Adkins, S., Kebriaei, P., Shpall, E., Green, M., Flowers, C., Westin, J., Neelapu, S. 
-Prognostic impact of corticosteroids on efficacy of chimeric antigen receptor t-cell therapy in large b-cell lymphoma. *Blood* 2021; 137(23): 3272-3276.
+Zhu H\#, Choi J\#, Kui N\#, Yang T, Wei P, Li D, **Sun R**. Identification of pancreatic cancer germline risk variants with effects that are modified by smoking. *JCO Precis Oncol*. 2024 Mar; 8:e2300355. PMID: 38564682.
 
-Alhalabi, O., Soomro, Z., **Sun, R.**, Hasanov, E., Albittar, A., Tripathy, D., Valero, V., Ibrahim, N. 
-Outcomes of changing systemic therapy in patients with relapsed breast cancer and 1 to 3 brain metastases. *NPJ Breast Cancer* 2021; 7(1): 1-5.
+**Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. In revision for Journal of the American Statistical Association. https://arxiv.org/abs/2309.12584.
 
-Yam, C., Rauch, G., Rahman, T., Karuturi, M., Ravenberg, E., White, J., Clayborn, A., McCarthy, P., Abouharb, S., Lim, B., Litton, J., Ramirez, D., Saleem, S., Stec, J., Symmans, W., Huo, L., Damodaran, S., **Sun, R.**, Moulder, S. 
-A phase II study of mirvetuximab soravtansine in triple- negative breast cancer. *Investigational New Drugs* 2021; 39(2): 509-515.
+### <a name="articles"></a>Identification of disease risk factors for time-to-event outcomes
 
-Han, G., Yang, G., Hao, D., Lu, Y., Thein, K., Chen, J., **Sun, R.**, ..., Wang, L. 
-9p21 loss confers a cold tumor immune microenvironment and primary resistance to immune checkpoint therapy. *Nature Communications* 2021; 12(1): 1-19.
+These tools offer the ability to associate high-dimensional omic data with the interval-censored time-to-event outcomes that are often found in massive modern genetic compendiums such as the UK Biobank. The interval-censored outcomes are common and arise from the dependence of these compendiums on periodic health questionnaires, which are a cost-effective approach for collecting large amounts of health data on hundreds of thousands of subjects.
 
-Xu, M., Tapia, C., Hajjar, J., ..., **Sun, R.**, Karp, D., Koay, E., Yang, Y., Wistuba, I., Hwu, P., Meric-Bernstam, F., Naing, A. 
-Implementation of a novel web-based lesion selection tool to improve acquisition of biopsies. *Journal of Immunotherapy and Precision Oncology* 2021: 4(2): 45-52.
+Zhu, L, Tong, X, Cai, D, Li, Y, Sun, R, Srivastava, DK, Hudson, MM. Maximum likelihood estimation for the proportional odds model with mixed interval-censored failure time data. J Appl Stat. 2020 Jan 01; :1-17. PMID: 34349336.
 
-Yam, Y., Yen, E., Chang, T., ..., **Sun, R.**, Moulder, S., Mittendorf E. 
-Immune phenotype and response to neoadjuvant therapy in triple-negative breast cancer. *Clinical Cancer Research* 2021; 27(19): 5356-5375.
+**Sun R**, Zhu L, Li Y, Yasui Y, Robison L. Inference for Set-Based Effects in Genetic Association Studies with Interval Censored Outcomes. *Biometrics*. 2023 Jun 01; 79(2):1573-1585. PMID: 35165890.
 
-**Sun, R.**\*, McCaw, Z.\*, Tian, L., Uno, H., Hong, F., Kim, D., Wei, L.J. 
-Moving beyond conventional stratified analysis to assess the treatment effect in a comparative oncology study. *Journal for Immunotherapy of Cancer* 2021; 9(11): e003323.
+**Sun R**, Sun D, Zhu L, Sun J. Regression analysis of general mixed recurrent event data. *Lifetime Data Anal*. 2023 Oct 01; 29(4):807-822. PMID: 37438585.
 
-Kaseb, A., Hasanov, E., Cao, H., ..., **Sun, R.**, Vittorio, C., Beretta, L., Yao, J., Wolff, R., Allison, J., Sharma, P. 
-Perioperative nivolumab monotherapy plus ipilimumab in resectable hepatocellular carcinoma. *The Lancet Gastroenterology & Hepatology* 2022; 7(3):208-218.
+Choi J\#, Xu Z\#, **Sun R**. Variance-components tests for genetic association with multiple interval-censored outcomes. *Stat Med*. 2024 Jun 15; 43(13):2560-2574. PMID: 38636557.
 
-Li, Y., Xiao, X., Li, J., ..., **Sun, R.**, ..., Willey, J., Gaba, C., Amos, C. 
-Genome-wide interaction analysis identified low-frequency variants with sex disparity in lung cancer risk. *Human Molecular Genetics* 2022; 31(16):2831-2843.
+Xu Z\#, Choi J\#, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
 
-Grover, P., Veilleux O., Tian, L., **Sun, R.**, Previtera, M., Curran, E., Muffly, L. 
-Chimeric antigen receptor-T cell therapy in adults with B-cell acute lymphoblastic leukemia: a systematic review. *Blood Advances* 2022 6(5):1608-1618.
+### <a name="articles"></a> Application of advanced statistical methodology in translational biomedical research
 
-McCaw, Z., Gaynor, S., **Sun, R.**, Lin X. 
-Cross-tissue eQTL mapping in the presence of missing data via surrogate outcome analysis. *Biometrics* 2022+ (in press).
+This work includes a number of translational biomedical projects that demonstrate how to use more advanced statistical methodology to explore biological questions.
 
-Li, X., Yung G., Zhou H., **Sun, R.**, Li, Z., Liu X., Ionita-Laza, I., Lin X. 
-A multi-dimensional integrative scoring framework for predicting functional variants in the human genome. *American Journal of Human Genetics* 2022; 109(3):446-456.
+**Sun R**, Wang Z, Claus Henn B, Su L, Lu Q, Lin X, Wright RO, Bellinger DC, Kile M, Mazumdar M, Tellez-Rojo MM, Schnaas L, Christiani DC. Identification of novel loci associated with infant cognitive ability. *Mol Psychiatry*. 2020 Nov 01; 25(11):3010-3019. PMID: 30120420.
 
-**Sun, R.**, Liang, Z., Li, Y., Yutaka, Y., Robison, L. Inference for set-based effects in genetic association studies with interval-censored outcomes. *Biometrics* 2022+ (in press).
+Kim DH, Li X, Bian S, Wei LJ, **Sun R**. Utility of Restricted Mean Survival Time for Analyzing Time to Nursing Home Placement Among Patients With Dementia. *JAMA Netw Open*. 2021 Jan 28; 4(1):e2034745. PMID: 33507253.
 
-Yam, C.,\* Abuhadra, N.,\* **Sun, R.,*** Ding, Q., ..., Huo, L., Moulder, S., Chang, J. Molecular characterization and prospective evaluation of pathological response and outcomes with neoadjuvant therapy in metaplastic triple-negative breast cancer. *Clinical Cancer Research* 2022; 28(13):2878-2889.
+**Sun R**\*, McCaw Z\*, Tian L, Uno H, Hong F, Kim DH, Wei LJ. Moving beyond conventional stratified analysis to assess the treatment effect in a comparative oncology study. *J Immunother Cancer*. 2021 Nov 01; 9(11) PMID: 34799398.
 
-Huang, B.,\* **Sun, R.,**\* Claggett, B., Tian, L., Ludmir, E.B., Wei, L.J. Handling informative premature treatment or study discontinuation for assessing between-group differences in a comparative oncology trial. *JAMA Oncology* 2022; 8(10):1502-1503.
+Yam C\*, Abuhadra N\*, **Sun R**\*, Adrada BE, Ding QQ, White JB, Ravenberg EE, Clayborn AR, Valero V, Tripathy D, Damodaran S, Arun BK, Litton JK, Ueno NT, Murthy RK, Lim B, Baez L, Li X, Buzdar AU, Hortobagyi GN, Thompson AM, Mittendorf EA, Rauch GM, Candelaria RP, Huo L, Moulder SL, Chang JT. Molecular Characterization and Prospective Evaluation of Pathologic Response and Outcomes with Neoadjuvant Therapy in Metaplastic Triple-Negative Breast Cancer. *Clin Cancer Res*. 2022 Jul 01; 28(13):2878-2889. PMID: 35507014.
 
-**Sun, R.**, Shi, A.,Lin, X. Differences in genetic set-based inference for sparse signals when testing sets of outcomes compared to sets of explanatory factors. *Biostatistics* 2022; kxac036.
+Huang B\*, **Sun R**\*, Claggett B, Tian L, Ludmir EB, Wei LJ. Handling Informative Premature Treatment or Study Discontinuation for Assessing Between-Group Differences in a Comparative Oncology Trial. *JAMA Oncol*. 2022 Oct 01; 8(10):1502-1503. PMID: 35980612.
 
-Li, Z., Li, X., Zhou, H., Gaynor, S.M., Selvaraj, M.S., Arapoglou, T., Quick, C., Liu, Y., Chen, H., **Sun, R.**, ..., Lin, X. A framework for detecting noncoding rare variant associations of large-scale whole-genome sequencing studies. *Nature Genetics* 2022; 19(12):1599-1611.
+Parseghian CM\*, **Sun R**\*, Woods M\*, Napolitano S\*, Lee HM, Alshenaifi J, Willis J, Nunez S, Raghav KP, Morris VK, Shen JP, Eluri M, Sorokin A, Kanikarla P, Vilar E, Rehn M, Ang A, Troiani T, Kopetz S. Resistance Mechanisms to Anti-EGFR Therapy in RAS/RAF Wildtype Colorectal Cancer Vary by Regimen and Line of Therapy. *J Clin Oncol*. 2023 Jan 20; 41(3):101200JCO2201423. PMID: 36351210
 
-Cherng, H.J., **Sun, R.**, Sugg, B., Yang, H., Irwin, R., Deng, Q., Fayad, L., Fowler, N., Par- mar, S., Steiner, R., Hagemeister, F., Nair, R., Lee, H.J., Rodriguez, M., Samaniego, F., Iyer, S., Flowers, C., Wang, L., Nasoupil, L.J., Neelapu, S.S., Ahmed, S., Strati, P., Green, M.R., Westin, J. Risk assessment with low-pass whole-genome sequencing of cell-free DNA before CD19 CAR T-cell therapy for large B-cell lymphoma. *Blood* 2022; 140(5):504-515.
+Napolitano S, Parikh AR, Henry J, Parseghian CM, Willis J, Raghav KP, Morris VK, Johnson B, Kee BK, Dasari AN, Overman MJ, Luthra R, Drusbosky LM, Corcoran RB, Kopetz S, **Sun R**. Novel Clinical Tool to Estimate Risk of False-Negative KRAS Mutations in Circulating Tumor DNA Testing. *JCO Precis Oncol*. 2023 Sep; 7:e2300228. PMID: 37824798.
 
-Byun, J., Han, Y., Li, Y., Xia, J., Xiao, X., **Sun, R.**, ..., Amos, C. Cross-ancestry genome-wide meta-analysis of 61,047 cases and 947,237 controls identifies new susceptibility loci contributing to lung cancer. *Nature Genetics* 2022; 54(8):1167-1177.
-
-Westin, J., Davis, R., Feng, L., ..., **Sun, R.**, Scott, D., Flowers, C., Neelapu, S., Green, M.R. SmartStart: rituximab, lenalidomide, and ibrutinib in large B-cell lymphoma. *Journal of Clinical Oncology* 2023; 41(4):745-755.
-
-Sohn, A.J., Taherian, M., Katz, M.H.G, ..., **Sun, R.**, Maitra, A., Wang, H. Integrated pathologic score effectively stratifies patients with pancreatic ductal adenocarcinoma who received neoadjuant therapy and pancreaticoduodenectomy. *American Journal of Surgical Pathology* 2023; 47(4):421- 430.
-
-Raghav, K., Ou, F., Venook, A.P., Innocenti, F., **Sun, R.**, Lenz, H., Kopetz, S. Acquired Genomic Alterations on First-Line Chemotherapy With Cetuximab in Advanced Colorectal Cancer: Circulating Tumor DNA Analysis of the CALGB/SWOG-80405 Trial (Alliance). *Journal of Clinical Oncology* 2023; 41(3):472-478.
-
-Li, X., Quick C., Zhou, H., Gaynor, S.M., Lu, Y., Chen, H., **Sun, R.**, ..., Lin, X. Powerful, scalable and resource-efficient meta-analysis of rare variant associations in large whole-genome sequencing studies. *Nature Genetics* 2023; 55(1):154-164.
-
-Parseghian, C.,\* **Sun, R.**,\*, Woods, M.,\* Napolitano, S.,\* Nunez, S., Sorokin, A., Kanikarla, P., Eluri, M., Morris, V.K., Willis, J., Evilar, E., Rehn, M., Ang, A., Troiani, T., Kopetz, S. Resistance mechanisms to anti–epidermal growth factor receptor therapy in RAS/RAF wild-type colorectal cancer vary by regimen and line of therapy. *Journal of Clinical Oncology* 2023; 41(3):460-471.
-
-Yam, C., Mittendorf, E.A., Garber, H.R., **Sun, R.**, Damodaran, S., Murthy, R.K., Ramirez, D., Karuturi, M., Layman, R.M., Ibrahim, N., Rauch, G.M. A phase II study of neoadjuvant atezolizumab and nab-paclitaxel in patients with anthracycline-resistant early-stage triple-negative breast cancer. *Breast Cancer Research and Treatment* 2023; 1-13.
-
-Han, Y., Byun, J., Zhu, C., **Sun, R.**, Roh, J.Y., Cordell, H.J., Lee, H.S., Shaw, V.R., Kang, S.W., Razjouyan, J., ..., Amos, C.I. Multitrait genome-wide analyses identify new susceptibility loci and candidate drugs to primary sclerosing cholangitis. *Nature Communications* 2023; 14(1):1069.
-
-Patni, T., Lee, C.T., Li, Y., Kaste, S., Zhu, L., **Sun, R.**, Hudson, M.M., Ness, K.K., Neumann, A., Robison, L.L. Factors for poor oral health in long-term childhood cancer survivors. *BMC Oral Health* 2023; 23(1):1-11.
-
-Zeineddine, F.A., Zeineddine, M.A., Yousef, A., Gu, Y., Chowdhury, S., Dasari, A., Huey, R.W., Johnson, B., Kee, B., Lee, M.S., ..., **Sun, R.**, Kopetz, S., Shen, J.P. Survival improvement for patients with metastatic colorectal cancer over twenty years. *NPJ Precision Oncology* 2023; 7(1):16.
-
-**Sun, R.**, Sun, D., Liang, Z., Sun, J. Regression analysis of general mixed recurrent event data. *Lifetime Data Analysis* 2023+ (in press)
-
-Napolitano, S., Parikh, A.R., Henry, J., Parseghian, C.M., Willis, J., Raghav, K.P., Morris, V.K., Johnson, B., Kee, B.K., Dasari, A.N., Overman, M.J., Luthra, R., Drusbosky, L.M., Corcoran, R.B., Kopetz, S., **Sun, R.** A novel clinical tool to estimate risk of false negative KRAS mutations in circulating tumor DNA testing. *JCO Precision Oncology* 2023+ (in press)
-
-Chamseddine, S., Mohamed, Y.I., Lee, S.S., Yao, J.C., Hu, Z.I., Cao, H.S.T., Xiao, L., **Sun, R.**, Morris, J.S., Hatia, R.I., ..., Kaseb, A.O. Clinical and Prognostic Biomarker Value of Blood Circulating Inflammatory Cytokines in Hepatocellular Carcinoma. *Oncology* 2023+ (in press)
-
-Wang, H., Moniruzzaman, R., Li, L., Ji, B., Liu, Y., Zuo, X., Abbasgholizadeh, R., Zhao, J., Liu, G., Wang, R., Tang, H., **Sun, R.**, ..., Wang, H.Hematopoietic progenitor kinase 1 inhibits the development and progression of pancreatic intraepithelial neoplasia. *The Journal of Clinical Investigation* 2023+ (in press)
-
-Strati, P., Jallouk, A., Deng, Q., Li, X., Feng, L., **Sun, R.**, Adkins, S., Johncy, S., Cain, T., Steiner, R.E., Ahmed, S. A phase 1 study of prophylactic anakinra to mitigate ICANS in patients with large b-cell lymphoma. *Blood Advances* 2023+ (in press)
-
-Antonoff, M.B., Kui, N., **Sun, R.**, Deboever, N., Hofstetter, W., Mehran, R.J., Morris, V.K., Rice, D.C., Swisher, S.G., Vaporciyan, A.A., Walsh, G.L., Rajaram, R. Factors associated with receipt of pulmonary metastasectomy in patients with lung-limited metastatic colorectal cancer: disparities in care and impact on overall survival. *The Journal of Thoracic and Cardiovascular Surgery* 2023+ (in press)
-
-Sherry, A.D., Msaouel, P., McCaw, Z., Jaoude, J.A., Hsu, E.J., Kouzy, R., Patel, R., Yang, Y., Lin, T.A., Taniguchi, C., Rodel, C., Fokas, E., Tang, C., Fuller, C.D., Minsky, B., Meirson, T., **Sun, R.**, Ludmir, E.B. Prevalence and implications of significance testing for baseline covariate imbalance in randomised cancer clinical trials: the table 1 fallacy. *European Journal of Cancer* 2023+ (in press)
-
-#### Papers Receiving Peer Review
-
-Sun, R., McCaw, Z., Lin, X. Large-scale testing of composite null hypothesis in genetic asso- ciation studies. In revision for Journal of the American Statistical Association.
-
-Choi, J., Xu, Z., Sun, R. Set-based inference for multiple interval-censored outcomes in genetic association studies. In revision for Statistics in Medicine.
-
-#### Published Correspondence
-
-**Sun, R.**, Horiguchi, M., Wei, L.J.
-Interpreting the benefit of frifluirdine/tipiracil in metastatic colorectal cancer with respect to progression-free survival and overall survival.
-*Journal of Clinical Oncology* 2018; 36(13): 1378.
-
-**Sun, R.**, Rich, M.W., Wei, L.J.  Pembrolizumab plus chemotherapy in lung cancer.
-*New England Journal of Medicine* 2018; 379(11): e18.
-
-**Sun, R.**, Nie, L., Huang, B., Kim, D.H., Wei, L.J. Quantifying immunoscore performance.
-*The Lancet* 2018; 392(10158): 1624.
-
-**Sun, R.**, Wei, L.J. Regional Hyperthermia With Neoadjuvant Chemotherapy for Treatment of Soft Tissue Sarcoma.
-*JAMA Oncology* 2019; 5(1): 112-113.
-
-**Sun, R.**, Zhu, H., Wei, L.J. Assessing the prognostic value of automated bone scan index in prostate cancer.
-*JAMA Oncology* 2019; 5(2): 270.
-
-**Sun, R.**, Orkaby, A.O., Kim, D.H., Zhu, H., Wei, L.J. Interpreting non-inferiority of biodegradable- polymer stents to durable-polymer stents.
-*The Lancet* 2019; 393(10184): 1932-1933.
-
-**Sun, R.**, Lee, H., Wei, L.J. Interpreting the long-term prognostic value of total mesorectal excision plane quality in rectal adenocarcinoma.
-*JAMA Surgery* 2019; 154(1): 96.
-
-**Sun, R.**, Kim, D.H., and Wei, L.J. Analysis of overall survival benefit of abemaciclib plus fulvestrant in hormone receptor-positive, ERBB-2 negative breast cancer. 
-*JAMA Oncology* 2020; 6(7): 1121-1122.
-
-**Sun, R.**, Messick, C., and Wei, L.J. Quantifying benefit from two-stage turnbull-cutait pull-through coloanal anastomosis for low rectal cancer. 
-*JAMA Surgery* 2021; 156(2): 202-203.
-
-**Sun, R.**, Tian, L., and Wei, L.J. Evaluating long-term efficacy of neoadjuvant chemoradiotherapy plus surgery for the treatment of locally advanced esophageal squamous cell carcinoma. *JAMA Surgery* 2022; 157(5):458-459.
-
-**Sun, R.** and Wei, L.J. Quantifying clinical utility of enzalutamide for overall survival in metastatic hormone-sensitive prostate cancer. *Journal of Clinical Oncology* 2022; 40(36):4278-4279.
-
-**Sun, R.** and Wei, L.J. Quantifying clinical utility of adjuvant abemaciclib in patients with high-risk early breast cancer who received neoadjuvant chemotherapy. *JAMA Oncology* 2022; 8(11):1701.
-
-**Sun, R.** and Wei, L.J. Pembrolizumab in triple-negative breast cancer. *New England Journal of Medicine* 2023; 387(15):1435.
-
-**Sun, R.**, Huang, B., Wei, L.J. Comparing short- and long-term treatment duration of bevacizumab for advanced ovarian cancer. *Journal of Clinical Oncology* 2023; 41(10):1952-1953.
-
-**Sun, R.** and Wei, L.J. Efficacy, safety, and analysis issues in a study of intraoperative hyperthermic intraperitoneal chemotherapy for locally advanced colon cancer. *JAMA Surgery* 2023+
 
 
 
