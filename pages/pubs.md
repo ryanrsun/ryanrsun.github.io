@@ -59,7 +59,7 @@ Zhu, L, Tong, X, Cai, D, Li, Y, Sun, R, Srivastava, DK, Hudson, MM. Maximum like
 
 Choi J\#, Xu Z\#, **Sun R**. Variance-components tests for genetic association with multiple interval-censored outcomes. *Stat Med*. 2024 Jun 15; 43(13):2560-2574. PMID: 38636557.
 
-Xu Z<sup>\#<\sup>, Choi J<sup>\#<\sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
+Xu Z<sup>\#<sup>, Choi J<sup>\#<sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
 
 ### <a name="articles"></a> Application of advanced statistical methodology in translational biomedical research
 
