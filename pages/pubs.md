@@ -6,7 +6,7 @@ description: Ryan Sun's publications
 
 ### <a name="articles"></a>Summary
 Below are a brief summary of first-author, last-author, and other statistical methodology publications.
-For a full list of publications, including all collaborative works and all Correspondence, please see the [CV. ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun_aug2024.pdf)<br/>
+For a full list of publications, including all collaborative works and all Correspondence, please see the [CV. ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun-aug2024.pdf)<br/>
 
 \*Indicates equal contribution as first authors. \\
 \#Indicates work done by trainee.
