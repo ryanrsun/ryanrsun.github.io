@@ -25,7 +25,33 @@ An [R](https://www.r-project.org/) package to reconstruct individual-level data 
  
 #### <a name="ICSKAT"></a>[R/ICSKAT](https://cran.r-project.org/web/packages/ICSKAT/index.html) 
  
- An [R](https://www.r-project.org/) package to perform the interaval-censored sequence kernel association test. Current developmental version is also available at [Github](https://www.github.com/ryanrsun/ICSKAT).
+An [R](https://www.r-project.org/) package to perform the interval-censored sequence kernel association test. Current developmental version is also available at [Github](https://www.github.com/ryanrsun/ICSKAT).
+
+---
+
+#### <a name="csmGmm"></a>[R/csmGmm](https://github.com/ryanrsun/csmGmm)
+
+An [R](https://www.r-project.org/) package to perform large-scale composite null hypothesis testing with the conditionally symmetric Gaussian mixture model.
+
+---
+
+#### <a name="SIMICO"></a>[R/SIMICO](https://cran.r-project.org/web/packages/SIMICO/index.html)
+
+An [R](https://www.r-project.org/) package to perform the interval-censored sequence kernel association test simultaneously with multiple outcomes. 
+
+---
+
+#### <a name="DBpower"></a>[R/DBpower](https://cran.r-project.org/web/packages/DBpower/index.html)
+
+An [R](https://www.r-project.org/) package to calculate power bounds and exact power (small sets only) for detection boundary tests (e.g. Berk-Jones, Generalized Berk-Jones, innovated Berk-Jones) used in set-based inference studies.
+
+---
+
+#### <a name="crSKAT"></a>[R/crSKAT](https://github.com/zhichaoxu04/crSKAT)
+
+An [R](https://www.r-project.org/) package to perform the interval-censored sequence kernel association test in the presence of a competing risk.
+
+
 
 
 
