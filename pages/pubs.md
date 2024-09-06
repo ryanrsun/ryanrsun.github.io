@@ -84,5 +84,32 @@ Parseghian CM\*, **Sun R**\*, Woods M\*, Napolitano S\*, Lee HM, Alshenaifi J, W
 Napolitano S, Parikh AR, Henry J, Parseghian CM, Willis J, Raghav KP, Morris VK, Johnson B, Kee BK, Dasari AN, Overman MJ, Luthra R, Drusbosky LM, Corcoran RB, Kopetz S, **Sun R**. Novel Clinical Tool to Estimate Risk of False-Negative KRAS Mutations in Circulating Tumor DNA Testing. *JCO Precis Oncol*. 2023 Sep; 7:e2300228. PMID: 37824798.
 
 
+### <a name="articles"></a> Correspondence in high-impact clinical journals
+
+As noted previously, despite the heterogeneous nature of modern clinical trials, the analysis of clinical trial data remain highly homogenous. Our group advocates for more robust quantitative approaches through these Correspondence. The overall goals are to inform policy, educate readers, and improve professional practice. For instance, in a piece responding to KEYNOTE-189, we describe how the lack of proportional hazards in the survival curves indicates that the reported hazard ratio is likely invalid; as such, it should not be used as a reference for effect sizes in designing future trials.
+
+
+1. **Sun R**, Horiguchi M, Wei LJ. Interpreting the Benefit of Trifluridine/Tipiracil in Metastatic Colorectal Cancer With Respect to Progression-Free Survival and Overall Survival. *J Clin Oncol*. 2018 May 01; 36(13):1378-1379. PMID: 29558278.
+2. **Sun R**, Rich MW, Wei LJ. Pembrolizumab plus Chemotherapy in Lung Cancer. *N Engl J Med*. 2018 Sep 13; 379(11):e18. PMID: 30211499.
+3. **Sun R**, Nie L, Huang B, Kim DH, Wei LJ. Quantifying Immunoscore performance. *Lancet*. 2018 Nov 03; 392(10158):1624. PMID: 30496077.
+4. **Sun R**, Wei LJ. Regional Hyperthermia With Neoadjuvant Chemotherapy for Treatment of Soft Tissue Sarcoma. *JAMA Oncol*. 2019 Jan 01; 5(1):112-113. PMID: 30489612.
+5. **Sun R**, Lee H, Wei LJ. Interpreting the Long-term Prognostic Value of Total Mesorectal Excision Plane Quality in Rectal Adenocarcinoma. *JAMA Surg*. 2019 Jan 01; 154(1):96. PMID: 30427976.
+6. **Sun R**, Zhu H, Wei LJ. Assessing the Prognostic Value of the Automated Bone Scan Index for Prostate Cancer. *JAMA Oncol*. 2019 Feb 01; 5(2):270. PMID: 30543368.
+7. Wei LJ, **Sun R**, Orkaby AR, Kim DH, Zhu H. Biodegradable-polymer stents versus durable- polymer stents. *Lancet*. 2019 May 11; 393(10184):1932-1933. PMID: 31084958.
+8. **Sun R**, Kim DH, Wei LJ. Analysis of Overall Survival Benefit of Abemaciclib Plus Fulvestrant in Hormone Receptor-Positive, ERBB2-Negative Breast Cancer. *JAMA Oncol*. 2020 Jul 01; 6(7):1121- 1122. PMID: 32463424.
+9. **Sun R**, Messick C, Wei LJ. Two-Stage Turnbull-Cutait Pull-Through Coloanal Anastomosis for Low Rectal Cancers. *JAMA Surg*. 2021 Feb 01; 156(2):202-203. PMID: 33175112.
+10. **Sun R**, Tian L, Wei LJ. Evaluating Long-term Efficacy of Neoadjuvant Chemoradiotherapy Plus Surgery for the Treatment of Locally Advanced Esophageal Squamous Cell Carcinoma. *JAMA Surg*. 2022 May 01; 157(5):458-459. PMID: 35080625.
+11. **Sun R**, Wei, LJ. Pembrolizumab in Triple-Negative Breast Cancer. *N Engl J Med*. 2022 Oct 13; 387(15):1435-1436. PMID: 36239657.
+12. **Sun R**, Wei LJ. Quantifying Clinical Utility of Adjuvant Abemaciclib in Patients With High- risk Early Breast Cancer Who Received Neoadjuvant Chemotherapy. *JAMA Oncol*. 2022 Nov 01; 8(11):1701. PMID: 36173642.
+13. **Sun R**, Wei LJ. Quantifying Clinical Utility of Enzalutamide for Overall Survival in Metastatic Hormone-Sensitive Prostate Cancer. *J Clin Oncol*. 2022 Dec 20; 40(36):JCO2201084. PMID: 35985008.
+14. **Sun R**, Huang B, Wei LJ. Comparing Short- and Long-Term Treatment Duration of Beva- cizumab for Advanced Ovarian Cancer. *J Clin Oncol*. 2023 Apr 01; 41(10):1952-1953. PMID: 36763910.
+15. **Sun R**, Wei LJ. Efficacy, Safety, and Analysis Issues in a Study of Intraoperative Hyperthermic Intraperitoneal Chemotherapy for Locally Advanced Colon Cancer. *JAMA Surg*. 2023 Dec 13; 158(12):1357-1358. PMID: 37585200.
+16. **Sun R**, Seibert, TM, Wei, LJ. Predictability of Olfactory Neuroblastoma Staging Systems. *JAMA Otolaryngol Head Neck Surg*. 2024 Jan 11; 150(1):84-85. PMID: 37971764.
+17. **Sun R**, Liu, J, Wei, LJ. Assessing Predictability of Pathologic Lymph Node Regression for Recurrence and Survival in Esophageal Adenocarcinoma. *J Clin Oncol*. 2024 Jan 20; 42(3):366-367. PMID: 37988644.
+18. **Sun R**, Wei, LJ. Is Pertuzumab Plus Trastuzumab Without Chemotherapy a Reasonable Treatment for ERBB2-Positive Metastatic Breast Cancer? *JAMA Oncol*. 2024 Apr 18; 10(4):537. PMID: 38329744.
+19. **Sun R**, Moraleda JM, Wei LJ. Quantification of Treatment Effect of Tislelizumab vs Sorafenib for Hepatocellular Carcinoma. *JAMA Oncol*. 2024 May 01; 10(5):674. PMID: 38483380.
+20. **Sun R**, Wei LJ. Benralizumab versus Mepolizumab for Eosinophilic Granulomatosis with Polyangiitis. *N Engl J Med*. 2024 May 30; 390(20):1939. PMID: 38810203.
+21. **Sun R**, Wei LJ. Aspirin vs Placebo as Adjuvant Therapy for Breast Cancer. *JAMA*. 2024+ (in press)
+
 
 
