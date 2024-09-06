@@ -25,6 +25,8 @@ Gaynor SM\*, **Sun R**\*, Lin X, Quackenbush J. Identification of differentially
 
 **Sun R**, Lin X. Genetic Variant Set-Based Tests Using the Generalized Berk-Jones Statistic with Application to a Genome-Wide Association Study of Breast Cancer. *J Am Stat Assoc*. 2020 Jan 01; 115(531):1079-1091. PMID: 33041403.
 
+**Sun R**, Wang Z, Claus Henn B, Su L, Lu Q, Lin X, Wright RO, Bellinger DC, Kile M, Mazumdar M, Tellez-Rojo MM, Schnaas L, Christiani DC. Identification of novel loci associated with infant cognitive ability. *Mol Psychiatry*. 2020 Nov 01; 25(11):3010-3019. PMID: 30120420.
+
 **Sun R**, Shi A, Lin X. Differences in set-based tests for sparse alternatives when testing sets of outcomes compared to sets of explanatory factors in genetic association studies. *Biostatistics*. 2024 Jan 01; 25(1):171-187. PMID: 36000269.
 
 Li, Z, Li, X, Zhou, H, Gaynor, SM, Selvaraj, MS, Arapoglou, T, Quick, C, Liu, Y, Chen, H, **Sun, R**, Dey, R, Arnett, DK, Auer, PL, Bielak, LF, Bis, JC, Blackwell, T, Blangero, J, Boerwinkle, E, Bowden, DW, Brody, JA, Cade, BE, Conomos, MP, Correa, A, Cupples, LA, Curran, JE, de Vries, PS, Duggirala, R, Franceschini, N, Freedman, BI, G ̈oring, HH, Guo, X, Kalyani, RR, Kooperberg, C, Kral, BG, Lange, LA, Lin, BM, Manichaikul, AW, Manning, AK, Martin, LW, Mathias, R, Meigs, JB, Mitchell, BD, Montasser, ME, Morrison, AC, Naseri, T, O’connell, Jr, Palmer, ND, Peyser, PA, Psaty, BM, Raffield, LM. A framework for detecting noncoding rare-variant associations of large-scale whole-genome sequencing studies. *Nat Methods*. 2022 Dec 01; PMID: 36303018.
@@ -61,19 +63,21 @@ Choi J<sup>\#</sup>, Xu Z<sup>\#</sup>, **Sun R**. Variance-components tests for
 
 Xu Z<sup>\#</sup>, Choi J<sup>\#</sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
 
-### <a name="articles"></a> Application of advanced statistical methodology in translational biomedical research
+### <a name="articles"></a> Describing more robust methods for analysis of clinical trial data
 
-This work includes a number of translational biomedical projects that demonstrate how to use more advanced statistical methodology to explore both new and existing biological questions.
-
-**Sun R**, Wang Z, Claus Henn B, Su L, Lu Q, Lin X, Wright RO, Bellinger DC, Kile M, Mazumdar M, Tellez-Rojo MM, Schnaas L, Christiani DC. Identification of novel loci associated with infant cognitive ability. *Mol Psychiatry*. 2020 Nov 01; 25(11):3010-3019. PMID: 30120420.
+Modern clinical trials aim to answer highly heterogeneous biological questions and produce many varied, unique datasets. However, the statistical analysis of such data remains highly uniform. This work is aimed at clinicians and describes robust options that may be more appropriate than conventional methods for handling common challenges such as stratification or study discontinuation.
 
 Kim DH, Li X, Bian S, Wei LJ, **Sun R**. Utility of Restricted Mean Survival Time for Analyzing Time to Nursing Home Placement Among Patients With Dementia. *JAMA Netw Open*. 2021 Jan 28; 4(1):e2034745. PMID: 33507253.
 
 **Sun R**\*, McCaw Z\*, Tian L, Uno H, Hong F, Kim DH, Wei LJ. Moving beyond conventional stratified analysis to assess the treatment effect in a comparative oncology study. *J Immunother Cancer*. 2021 Nov 01; 9(11) PMID: 34799398.
 
-Yam C\*, Abuhadra N\*, **Sun R**\*, Adrada BE, Ding QQ, White JB, Ravenberg EE, Clayborn AR, Valero V, Tripathy D, Damodaran S, Arun BK, Litton JK, Ueno NT, Murthy RK, Lim B, Baez L, Li X, Buzdar AU, Hortobagyi GN, Thompson AM, Mittendorf EA, Rauch GM, Candelaria RP, Huo L, Moulder SL, Chang JT. Molecular Characterization and Prospective Evaluation of Pathologic Response and Outcomes with Neoadjuvant Therapy in Metaplastic Triple-Negative Breast Cancer. *Clin Cancer Res*. 2022 Jul 01; 28(13):2878-2889. PMID: 35507014.
-
 Huang B\*, **Sun R**\*, Claggett B, Tian L, Ludmir EB, Wei LJ. Handling Informative Premature Treatment or Study Discontinuation for Assessing Between-Group Differences in a Comparative Oncology Trial. *JAMA Oncol*. 2022 Oct 01; 8(10):1502-1503. PMID: 35980612.
+
+### <a name="articles"></a> Translational omics research in cancer
+
+New omics modalities are increasingly available to assess cancer patient prognosis. However, standard approaches to analyze such data may not be appropriate for all settings. This work produces bespoke models that allow translational researchers to pose novel biological hypotheses. For example, we introduce an empirical Bayes model that estimates the probability of false negative KRAS readings that arise in circulating tumor DNA (ctDNA). Such readings are highly impactful in colorectal cancer treatment.  
+
+Yam C\*, Abuhadra N\*, **Sun R**\*, Adrada BE, Ding QQ, White JB, Ravenberg EE, Clayborn AR, Valero V, Tripathy D, Damodaran S, Arun BK, Litton JK, Ueno NT, Murthy RK, Lim B, Baez L, Li X, Buzdar AU, Hortobagyi GN, Thompson AM, Mittendorf EA, Rauch GM, Candelaria RP, Huo L, Moulder SL, Chang JT. Molecular Characterization and Prospective Evaluation of Pathologic Response and Outcomes with Neoadjuvant Therapy in Metaplastic Triple-Negative Breast Cancer. *Clin Cancer Res*. 2022 Jul 01; 28(13):2878-2889. PMID: 35507014.
 
 Parseghian CM\*, **Sun R**\*, Woods M\*, Napolitano S\*, Lee HM, Alshenaifi J, Willis J, Nunez S, Raghav KP, Morris VK, Shen JP, Eluri M, Sorokin A, Kanikarla P, Vilar E, Rehn M, Ang A, Troiani T, Kopetz S. Resistance Mechanisms to Anti-EGFR Therapy in RAS/RAF Wildtype Colorectal Cancer Vary by Regimen and Line of Therapy. *J Clin Oncol*. 2023 Jan 20; 41(3):101200JCO2201423. PMID: 36351210
 
