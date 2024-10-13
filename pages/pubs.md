@@ -35,20 +35,6 @@ Li, X, Quick, C, Zhou, H, Gaynor, SM, Liu, Y, Chen, H, Selvaraj, MS, **Sun, R**,
 
 McCaw ZR, Gaynor SM, **Sun R**, Lin X. Leveraging a surrogate outcome to improve inference on a partially missing target outcome. *Biometrics*. 2023 Jun 01; 79(2):1472-1484. PMID: 35218565.
 
-### <a name="articles"></a>Integration of high-dimensional omic data to characterize biological processes
-
-This work describes techniques to integrate high-dimensional omic data in interpretable models that move beyond association analysis and explain the biological pathways involved. For instance, instead of only associating genetic variants with disease, we can explain how those genetic variants influence disease risk by regulating expression of certain risk genes.
-
-Li X, Li Z, Zhou H, Gaynor SM, Liu Y, Chen H, **Sun R**, Dey R, Arnett DK, Aslibekyan S, Ballantyne CM, Bielak LF, Blangero J, Boerwinkle E, Bowden DW, Broome JG, Conomos MP, Correa A, Cupples LA, Curran JE, Freedman BI, Guo X, Hindy G, Irvin MR, Kardia SLR, Kathire- san S, Khan AT, Kooperberg CL, Laurie CC, Liu XS, Mahaney MC, Manichaikul AW, Martin LW, Mathias RA, McGarvey ST, Mitchell BD, Montasser ME, Moore JE, Morrison AC, O’Connell JR, Palmer ND, Pampana A, Peralta JM, Peyser PA, Psaty BM, Redline S, Rice KM, Rich SS, Smith JA, Tiwari HK, Tsai MY, Vasan RS, Wang FF, Weeks DE, Weng Z, Wilson JG, Yanek LR, (TOPMed) Consortium NTFPM, Working Group TL, Neale BM, Sunyaev SR, Abecasis GR, Rotter JI, Willer CJ, Peloso GM, Natarajan P, Lin X. Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. *Nat Genet*. 2020 Sep 01; 52(9):969-983. PMID: 32839606.
-
-**Sun R**, Xu M, Li X, Gaynor S, Zhou H, Li Z, Boss ́e Y, Lam S, Tsao MS, Tardon A, Chen C, Doherty J, Goodman G, Bojesen SE, Landi MT, Johansson M, Field JK, Bickeboller H, Wichmann HE, Risch A, Rennert G, Arnold S, Wu X, Melander O, Brunnstr ̈om H, Le Marchand L, Liu G, Andrew A, Duell E, Kiemeney LA, Shen H, Haugen A, Johansson M, Grankvist K, Caporaso N, Woll P, Dawn Teare M, Scelo G, Hong YC, Yuan JM, Lazarus P, Schabath MB, Aldrich MC, Albanes D, Mak R, Barbie D, Brennan P, Hung RJ, Amos CI, Christiani DC, Lin X. Integration of multiomic annotation data to prioritize and characterize inflammation and immune-related risk variants in squamous cell lung cancer. *Genet Epidemiol*. 2021 Feb 01; 45(1):99-114. PMID: 32924180.
-
-Li X, Yung G, Zhou H, **Sun R**, Li Z, Hou K, Zhang MJ, Liu Y, Arapoglou T, Wang C, Ionita- Laza I, Lin X. A multi-dimensional integrative scoring framework for predicting functional variants in the human genome. *Am J Hum Genet*. 2022 Mar 01; 109(3):446-456. PMID: 35216679.
-
-Zhu H<sup>\#</sup>, Choi J<sup>\#</sup>, Kui N<sup>\#</sup>, Yang T, Wei P, Li D, **Sun R**. Identification of pancreatic cancer germline risk variants with effects that are modified by smoking. *JCO Precis Oncol*. 2024 Mar; 8:e2300355. PMID: 38564682.
-
-**Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. In revision for Journal of the American Statistical Association. https://arxiv.org/abs/2309.12584.
-
 ### <a name="articles"></a>Identification of disease risk factors for time-to-event outcomes
 
 These tools offer the ability to associate high-dimensional omic data with the interval-censored time-to-event outcomes that are often found in massive modern genetic compendiums such as the UK Biobank. The interval-censored outcomes are common and arise from the dependence of these compendiums on periodic health questionnaires, which are a cost-effective approach for collecting large amounts of health data on hundreds of thousands of subjects.
@@ -62,6 +48,24 @@ Zhu, L, Tong, X, Cai, D, Li, Y, **Sun, R**, Srivastava, DK, Hudson, MM. Maximum 
 Choi J<sup>\#</sup>, Xu Z<sup>\#</sup>, **Sun R**. Variance-components tests for genetic association with multiple interval-censored outcomes. *Stat Med*. 2024 Jun 15; 43(13):2560-2574. PMID: 38636557.
 
 Xu Z<sup>\#</sup>, Choi J<sup>\#</sup>, **Sun R**. Set-based tests for genetic association studies with interval-censored competing risks outcomes. *Statistics in Biosciences*. 2024+ (in press).
+
+### <a name="articles"></a>Integration of high-dimensional omic data to characterize biological processes
+
+This work describes techniques to integrate high-dimensional omic data in interpretable models that move beyond association analysis and explain the biological pathways involved. For instance, instead of only associating genetic variants with disease, we can explain how those genetic variants influence disease risk by regulating expression of certain risk genes.
+
+Li X, Li Z, Zhou H, Gaynor SM, Liu Y, Chen H, **Sun R**, Dey R, Arnett DK, Aslibekyan S, Ballantyne CM, Bielak LF, Blangero J, Boerwinkle E, Bowden DW, Broome JG, Conomos MP, Correa A, Cupples LA, Curran JE, Freedman BI, Guo X, Hindy G, Irvin MR, Kardia SLR, Kathire- san S, Khan AT, Kooperberg CL, Laurie CC, Liu XS, Mahaney MC, Manichaikul AW, Martin LW, Mathias RA, McGarvey ST, Mitchell BD, Montasser ME, Moore JE, Morrison AC, O’Connell JR, Palmer ND, Pampana A, Peralta JM, Peyser PA, Psaty BM, Redline S, Rice KM, Rich SS, Smith JA, Tiwari HK, Tsai MY, Vasan RS, Wang FF, Weeks DE, Weng Z, Wilson JG, Yanek LR, (TOPMed) Consortium NTFPM, Working Group TL, Neale BM, Sunyaev SR, Abecasis GR, Rotter JI, Willer CJ, Peloso GM, Natarajan P, Lin X. Dynamic incorporation of multiple in silico functional annotations empowers rare variant association analysis of large whole-genome sequencing studies at scale. *Nat Genet*. 2020 Sep 01; 52(9):969-983. PMID: 32839606.
+
+**Sun R**, Xu M, Li X, Gaynor S, Zhou H, Li Z, Boss ́e Y, Lam S, Tsao MS, Tardon A, Chen C, Doherty J, Goodman G, Bojesen SE, Landi MT, Johansson M, Field JK, Bickeboller H, Wichmann HE, Risch A, Rennert G, Arnold S, Wu X, Melander O, Brunnstr ̈om H, Le Marchand L, Liu G, Andrew A, Duell E, Kiemeney LA, Shen H, Haugen A, Johansson M, Grankvist K, Caporaso N, Woll P, Dawn Teare M, Scelo G, Hong YC, Yuan JM, Lazarus P, Schabath MB, Aldrich MC, Albanes D, Mak R, Barbie D, Brennan P, Hung RJ, Amos CI, Christiani DC, Lin X. Integration of multiomic annotation data to prioritize and characterize inflammation and immune-related risk variants in squamous cell lung cancer. *Genet Epidemiol*. 2021 Feb 01; 45(1):99-114. PMID: 32924180.
+
+Li X, Yung G, Zhou H, **Sun R**, Li Z, Hou K, Zhang MJ, Liu Y, Arapoglou T, Wang C, Ionita- Laza I, Lin X. A multi-dimensional integrative scoring framework for predicting functional variants in the human genome. *Am J Hum Genet*. 2022 Mar 01; 109(3):446-456. PMID: 35216679.
+
+Zhu H<sup>\#</sup>, Choi J<sup>\#</sup>, Kui N<sup>\#</sup>, Yang T, Wei P, Li D, **Sun R**. Identification of pancreatic cancer germline risk variants with effects that are modified by smoking. *JCO Precis Oncol*. 2024 Mar; 8:e2300355. PMID: 38564682.
+
+### <a name="articles"></a> High-dimensional inference for composite null hypotheses.
+
+Composite null hypotheses occur when we are interested in a set of individual null hypotheses, and we want to know whether all individual nulls in the set should be rejected simultaneously. This statistical challenge has many applications in translational genetics studies such as mediation analysis, pleiotropy analysis, and replication analysis. 
+
+**Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. In revision for Journal of the American Statistical Association. https://arxiv.org/abs/2309.12584.
 
 ### <a name="articles"></a> Describing more robust methods for analysis of clinical trial data
 
