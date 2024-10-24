@@ -17,7 +17,7 @@ I remained at Harvard for my postdoctoral training and joined MD Anderson in Jul
 
 My research interests lie in developing novel statistical methodology that enables researchers to extract knowledge and insights from increasingly complex biomedical datasets. Please see the [Research](pages/pubs.md) page for short summaries of different areas of work.
 
-[Curriculum Vitae ![CV as pdf](pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun-oct2024.pdf)<br/>
+[Curriculum Vitae ![CV as pdf](pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun-oct2024_v2.pdf)<br/>
 [Orcid](https://orcid.org): [0000-0003-1176-1561](https://orcid.org/0000-0003-1176-1561)<br/>
 [Github](https://github.com/ryanrsun)<br/>
 [Google Scholar](https://scholar.google.com/citations?user=9odeJa0AAAAJ&hl=en)<br/>
