@@ -65,7 +65,7 @@ Zhu H<sup>\#</sup>, Choi J<sup>\#</sup>, Kui N<sup>\#</sup>, Yang T, Wei P, Li D
 
 Composite null hypotheses occur when we are interested in a set of individual null hypotheses, and we want to know whether all individual nulls in the set should be rejected simultaneously. This statistical challenge has many applications in translational genetics studies such as mediation analysis, pleiotropy analysis, and replication analysis. 
 
-**Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. In revision for Journal of the American Statistical Association. https://arxiv.org/abs/2309.12584.
+**Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. *Journal of the American Statistical Association*. 2024+ (accepted) https://arxiv.org/abs/2309.12584.
 
 ### <a name="articles"></a> Describing more robust methods for analysis of clinical trial data
 
