@@ -25,6 +25,20 @@ My research interests lie in developing novel statistical methodology that enabl
 
 ---
 
+# Recent News
+* 2024/10 - Our paper on performing mediation, pleiotropy, and replication analyses in genome-wide studies has been accepted at the Journal of the American Statistical Association: [Preprint](https://arxiv.org/abs/2309.12584)
+* 2024/10 - New positions for postdoctoral fellows and GRAs are open in the lab.
+* 2024/09 - We are grateful to NIGMS for the award of 1R35GM154843, which will fund new methodology development for large-scale testing of comopsite null hypotheses.
+* 2024/09 - Congratulations to our former lab member Jaihee Choi on starting her new position as Assistant Professor in the Department of Mathematical and Statistical Sciences at Marquette University!
+* 2024/05 - Zhichao Xu
+* 2024/04 - Jaihee Choi has successfully defended her thesis. Congratulations Jaihee!
+* 2024/03 - Jaihee Choi's paper on 
+* 2024/03 - Jaihee Choi has won the Rice 
+* 2024/03 - Jaihee Choi has won the ENAR
+* 2024/01 - Welcome to Emily Oppold, a first-year PhD student (co-advised by Dr. Christine Peterson) 
+
+---
+
 <div class="container">
 <h4><a name="Contact"></a>Contact</h4>
 
