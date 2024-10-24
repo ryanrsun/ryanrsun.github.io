@@ -28,15 +28,14 @@ My research interests lie in developing novel statistical methodology that enabl
 # Recent News
 * 2024/10 - Our paper on performing mediation, pleiotropy, and replication analyses in genome-wide studies has been accepted at the Journal of the American Statistical Association: [Preprint](https://arxiv.org/abs/2309.12584)
 * 2024/10 - New positions for postdoctoral fellows and GRAs are open in the lab.
-* 2024/09 - We are grateful to NIGMS for the award of 1R35GM154843, which will fund new methodology development for large-scale testing of comopsite null hypotheses.
-* 2024/09 - Congratulations to our former lab member Jaihee Choi on starting her new position as Assistant Professor in the Department of Mathematical and Statistical Sciences at Marquette University!
-* 2024/05 - Zhichao Xu
+* 2024/09 - We are grateful to NIGMS for the award of [1R35GM154843](https://reporter.nih.gov/search/3MAsCl2AykS7T5SLjlQMyA/project-details/10937675), which will fund new methodology development for large-scale testing of comopsite null hypotheses.
+* 2024/09 - Congratulations to our former lab member [Jaihee Choi](https://www.marquette.edu/mathematical-and-statistical-sciences/directory/jaihee-choi.php) on starting her new position as Assistant Professor in the Department of Mathematical and Statistical Sciences at Marquette University! Rice also offered their congratulations in a [press release](https://engineering.rice.edu/news/jaihee-choi-24-joins-faculty-marquette-university).
+* 2024/07 - Zhichao Xu's [paper](https://link.springer.com/article/10.1007/s12561-024-09448-3) on set-based inference for genetic association studies with competing risks outcomes is published in Statistics in Biosciences. 
 * 2024/04 - Jaihee Choi has successfully defended her thesis. Congratulations Jaihee!
-* 2024/03 - Jaihee Choi's paper on 
-* 2024/03 - Jaihee Choi has won the Rice 
-* 2024/03 - Jaihee Choi has won the ENAR
-* 2024/01 - Welcome to Emily Oppold, a first-year PhD student (co-advised by Dr. Christine Peterson) 
-
+* 2024/04 - Jaihee Choi's [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.10081) on variance components testing in genetic association studies with interval-censored outcomes is published at Statistics in Medicine. 
+* 2024/03 - Jaihee Choi won an IBS Distinguished Student Paper [Award](https://engineering.rice.edu/news/jaihee-choi-wins-ibs-distinguished-student-paper-award) at ENAR. 
+* 2024/03 - Jaihee Choi has won the James R. Thompson award for outstanding student in the Rice University Department of Statistics.
+* 2024/03 - Welcome Emily Oppold, a first-year PhD student at Rice University (co-advised by Dr. Christine Peterson). 
 ---
 
 <div class="container">
