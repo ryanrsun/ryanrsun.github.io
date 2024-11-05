@@ -26,7 +26,7 @@ My research interests lie in developing novel statistical methodology that enabl
 ---
 
 # Recent News
-* 2024/10 - Our paper on performing mediation, pleiotropy, and replication analyses in genome-wide studies has been accepted at the *Journal of the American Statistical Association*: [Preprint](https://arxiv.org/abs/2309.12584).
+* 2024/10 - Our [paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2422124) on performing mediation, pleiotropy, and replication analyses in genome-wide studies has been accepted at the *Journal of the American Statistical Association*.
 * 2024/10 - New positions for postdoctoral fellows and GRAs are open in the lab. Please see our [job ad]({{ BASE_PATH }}/files/postdoc_ad_rsun.docx).
 * 2024/09 - We are grateful to NIGMS for the award of [1R35GM154843](https://reporter.nih.gov/search/3MAsCl2AykS7T5SLjlQMyA/project-details/10937675), which will fund new methodology development for large-scale testing of composite null hypotheses.
 * 2024/09 - Congratulations to our former lab member [Jaihee Choi](https://www.marquette.edu/mathematical-and-statistical-sciences/directory/jaihee-choi.php) on starting her new position as Assistant Professor in the Department of Mathematical and Statistical Sciences at Marquette University! Rice also offered their congratulations in a [press release](https://engineering.rice.edu/news/jaihee-choi-24-joins-faculty-marquette-university).
