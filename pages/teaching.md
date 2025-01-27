@@ -50,6 +50,11 @@ to check your work). Finally, plot the Kaplan-Meier curves, perform a log-rank t
 in survival by treatment, and calculate a hazard ratio for the treatment (you can use existing packages for this last sentence).
 
 
-
+## Spring 2025: Survival Analysis
+**Tuesday/Thursday 9:20am 1MC12.3434**<br/>
+**Notes**<br/>
+Please see above<br/>
+**Homework**<br/>
+Homework 1 (Email to me by end of day Jan 28) - 1.6, 1.7, 1.9, 1.10, 1.12, 2.2, 2.3, 2.6<br/>
 
 
