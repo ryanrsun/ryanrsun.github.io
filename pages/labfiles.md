@@ -7,17 +7,15 @@ description: Lab Files
 ### <a name="articles"></a>Helpful Research Tips
 Please see below for some helpful tips on conducting research that have been shared by our lab members:
 
-[Getting started on Seadragon](https://yhc0211.github.io/posts/2013/08/blog-post-2/)
-[Seadragon tips for PC](https://github.com/sisi123Wang/HG-Book-Notes/blob/main/seadragon_pc_helper.md) 
-[Genetics jargon dictionary](https://github.com/ryanrsun/lab_notes/blob/main/vocab_swang.pdf)
+[Getting started on Seadragon](https://yhc0211.github.io/posts/2013/08/blog-post-2/) \\
+[Seadragon tips for PC](https://github.com/sisi123Wang/HG-Book-Notes/blob/main/seadragon_pc_helper.md) \\ 
+[Genetics jargon dictionary](https://github.com/ryanrsun/lab_notes/blob/main/vocab_swang.pdf) \\
 
 ### <a name="articles"></a>Reading List
 Please see our lab meeting reading list below. Some notes are available on papers that have been read.
 
-### <a name="articles"></a>Books
-An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease. Jonathan Pritchard. [Book Chapters](https://web.stanford.edu/group/pritchardlab/HGbook.html) [Siyi Ch1](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch1.pdf) [Siyi Ch2](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch2.pdf) [Siyi Ch3](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch3.pdf)
+An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease. Jonathan Pritchard. [Book Chapters](https://web.stanford.edu/group/pritchardlab/HGbook.html) [[Siyi Ch1]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch1.pdf) [(Siyi Ch2)](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch2.pdf) [Siyi Ch3](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch3.pdf)
 
-### <a name="articles"></a>Papers
 * Principal components analysis corrects for stratification in genome-wide association studies. Price et al. Nature Genetics. 2006.
 * Rare-Variant Association Testing for Sequencing Data with the Sequence Kernel Association Test. Wu et al. American Journal of Human Genetics. 2011.
 * Optimal tests for rare variant effects in sequencing association studies. Lee et al. Biostatistics. 2012.
