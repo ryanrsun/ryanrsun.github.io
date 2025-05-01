@@ -16,13 +16,13 @@ Please see our lab meeting reading list below. Some notes are available on paper
 
 An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease. Jonathan Pritchard. [Book Chapters](https://web.stanford.edu/group/pritchardlab/HGbook.html) [[Siyi Ch1]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch1.pdf) [[Siyi Ch2]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch2.pdf) [[Siyi Ch3]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch3.pdf)
 
-* Higher criticism for detecting sparse heterogeneous mixtures. Donoho \& Jin. Annals of Statistics. 2004.
+* Higher criticism for detecting sparse heterogeneous mixtures. Donoho & Jin. Annals of Statistics. 2004.
 * Principal components analysis corrects for stratification in genome-wide association studies. Price et al. Nature Genetics. 2006.
 * Microarrays, Empirical Bayes and the Two-Groups Model. Efron. Statistical Science. 2008.
 * Rare-Variant Association Testing for Sequencing Data with the Sequence Kernel Association Test. Wu et al. American Journal of Human Genetics. 2011.
 * Optimal tests for rare variant effects in sequencing association studies. Lee et al. Biostatistics. 2012.
 * A general framework for estimating the relative pathogenicity of human genetic variants. Kircher et al. Nature Genetics. 2014.
-* Replicability analysis for genome-wide association studies. Heller \& Yekutieli. Annals of Applied Statistics. 2014.
+* Replicability analysis for genome-wide association studies. Heller & Yekutieli. Annals of Applied Statistics. 2014.
 * Efficient Bayesian mixed-model analysis increases association power in large cohorts. Loh et al. Nature Genetics. 2015.
 * LD Score regression distinguishes confounding from polygenicity in genome­wide association studies. Bulik-Sullivan et al. Nature Genetics. 2015.
 * A gene-based association method for mapping traits using reference transcriptome data. Gamazon et al. Nature Genetics. 2015.
