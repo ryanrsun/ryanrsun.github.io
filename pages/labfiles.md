@@ -61,5 +61,5 @@ An Owner's Guide to the Human Genome: an introduction to human population geneti
 * [StatFunGen Lab](https://wanggroup.org/learning_resource/index.html)
 * [Stephens Lab fiveMinuteStats](https://stephens999.github.io/fiveMinuteStats/)
 * [Zachary McCaw Notes](https://zrmacc.github.io/Collections/)
-
-
+* [Very Normal on Youtube](https://www.youtube.com/@very-normal)
+* [Jeff Miller on Youtube](https://www.youtube.com/@mathematicalmonk)
