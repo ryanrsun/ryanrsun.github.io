@@ -7,14 +7,14 @@ description: Lab Files
 ### <a name="articles"></a>Helpful Research Tips
 Please see below for some helpful tips on conducting research that have been shared by our lab members:
 
-[Getting started on Seadragon](https://yhc0211.github.io/posts/2013/08/blog-post-2/) \\
-[Seadragon tips for PC](https://github.com/sisi123Wang/HG-Book-Notes/blob/main/seadragon_pc_helper.md) \\ 
-[Genetics jargon dictionary](https://github.com/ryanrsun/lab_notes/blob/main/vocab_swang.pdf) \\
+[Getting started on Seadragon](https://yhc0211.github.io/posts/2013/08/blog-post-2/) <br/>
+[Seadragon tips for PC](https://github.com/sisi123Wang/HG-Book-Notes/blob/main/seadragon_pc_helper.md) <br/> 
+[Genetics jargon dictionary](https://github.com/ryanrsun/lab_notes/blob/main/vocab_swang.pdf) <br/>
 
 ### <a name="articles"></a>Reading List
 Please see our lab meeting reading list below. Some notes are available on papers that have been read.
 
-An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease. Jonathan Pritchard. [Book Chapters](https://web.stanford.edu/group/pritchardlab/HGbook.html) [[Siyi Ch1]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch1.pdf) [(Siyi Ch2)](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch2.pdf) [Siyi Ch3](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch3.pdf)
+An Owner's Guide to the Human Genome: an introduction to human population genetics, variation and disease. Jonathan Pritchard. [Book Chapters](https://web.stanford.edu/group/pritchardlab/HGbook.html) [[Siyi Ch1]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch1.pdf) [[Siyi Ch2]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch2.pdf) [[Siyi Ch3]](https://github.com/ryanrsun/lab_notes/blob/main/book_swang_ch3.pdf)
 
 * Principal components analysis corrects for stratification in genome-wide association studies. Price et al. Nature Genetics. 2006.
 * Rare-Variant Association Testing for Sequencing Data with the Sequence Kernel Association Test. Wu et al. American Journal of Human Genetics. 2011.
@@ -46,7 +46,7 @@ An Owner's Guide to the Human Genome: an introduction to human population geneti
 * 15 years of GWAS discovery: Realizing the promise. Abdellaoui et al. American Journal of Human Genetics. 2023.
 * Accurate and efficient estimation of local heritability using summary statistics and the linkage disequilibrium matrix. Li et al. Nature Communications. 2023.
 * A new method for multiancestry polygenic prediction improves performance across diverse populations. Zhang et al. Nature Genetics. 2023.
-* Testing a Large Number of Composite Null Hypotheses Using Conditionally Symmetric Multidimensional Gaussian Mixtures in Genome- Wide Studies. Sun et al. JASA. 2024. [Jae-Woo](https://github.com/ryanrsun/lab_notes/blob/main/csmgmm_jchung.pdf)
+* Testing a Large Number of Composite Null Hypotheses Using Conditionally Symmetric Multidimensional Gaussian Mixtures in Genome- Wide Studies. Sun et al. JASA. 2024. [[Jae-Woo]](https://github.com/ryanrsun/lab_notes/blob/main/csmgmm_jchung.pdf)
 * Fast and scalable ensemble learning method for versatile polygenic risk prediction. Chen et al. PNAS. 2024.
 * Synthetic surrogates improve power for genome-wide association studies of partially missing phenotypes in population biobanks. McCaw et al. Nature Genetics. 2024.
 * Semi-supervised machine learning method for predicting homogeneous ancestry groups to assess Hardy-Weinberg equilibrium in diverse whole-genome sequencing studies. Shyr et al. American Journal of Human Genetics. 2024.
