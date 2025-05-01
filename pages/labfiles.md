@@ -54,7 +54,9 @@ An Owner's Guide to the Human Genome: an introduction to human population geneti
 * Semi-supervised machine learning method for predicting homogeneous ancestry groups to assess Hardy-Weinberg equilibrium in diverse whole-genome sequencing studies. Shyr et al. American Journal of Human Genetics. 2024.
 * Ensemble methods for testing a global null. Liu et al. Journal of the Royal Statistical Society Series B. 2024.
 
-
-
+### <a name="articles"></a>Other sites with useful information about performing research in statistics and genetics
+* [StatFunGen Lab](https://wanggroup.org/learning_resource/index.html)
+* [Stephens Lab fiveMinuteStats](https://stephens999.github.io/fiveMinuteStats/)
+* [Zachary McCaw Notes](https://zrmacc.github.io/Collections/)
 
 
