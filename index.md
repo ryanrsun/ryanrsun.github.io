@@ -5,7 +5,7 @@ description: Ryan Sun is Assistant Professor in Biostatistics at University of T
 keywords: biostatistics, statistics, statistical genetics, survival analysis
 ---
 
-I am an Assistant Professor in the
+I am an Associate Professor in the
 [Department of Biostatistics](https://www.mdanderson.org/research/departments-labs-institutes/departments-divisions/biostatistics.html)
 at the University of Texas MD Anderson Cancer Center.
 I received my BS in Applied Mathematics from Columbia University in 2012
