@@ -5,7 +5,7 @@ description: Team
 ---
 
 ### <a name="articles"></a>Open Positions
-We are currently (October 2024) hiring a postdoctoral fellow. Please see our [job ad](../files/postdoc_ad_rsun.docx). We also currently have positions for GRAs and rotation students. Please email for more information.
+We are always looking for motivated students who are interested in harnessing big data to better understand cancer. Please send an email with your transcript and resume for more information.
 
 ### <a name="articles"></a>Current and Former Lab Members
 * Jaihee Choi, PhD, 2020-2024. Current Position: Tenure-Track Assistant Professor, Department of Mathematical and Statistical Sciences, Marquette University 
