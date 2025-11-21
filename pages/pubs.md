@@ -6,10 +6,18 @@ description: Ryan Sun's publications
 
 ### <a name="articles"></a>Summary
 Below are a brief summary of first-author, last-author, and other statistical methodology publications.
-For a full list of publications, including all collaborative works, please see the [CV. ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun-oct2024_v2.pdf)<br/>
+
+For a full, chronological list of publications, including all collaborative works, please see the [CV. ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun-oct2024_v2.pdf)<br/>
 
 \*Indicates equal contribution as first authors. \\
 \#Indicates work done by trainee.
+
+### <a name="articles"></a> High-dimensional inference for composite null hypotheses.
+
+Composite null hypotheses occur when we are interested in a set of individual null hypotheses, and we want to know whether all individual nulls in the set should be rejected simultaneously. This statistical challenge has many applications in translational genetics studies such as mediation analysis, pleiotropy analysis, and replication analysis.
+
+**Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. *Journal of the American Statistical Association*. 2024+ (accepted) https://arxiv.org/abs/2309.12584.
+
 
 ### <a name="articles"></a>Identification of rare and weak omic risk factors in disease
 
@@ -60,12 +68,6 @@ Li X, Li Z, Zhou H, Gaynor SM, Liu Y, Chen H, **Sun R**, Dey R, Arnett DK, Aslib
 Li X, Yung G, Zhou H, **Sun R**, Li Z, Hou K, Zhang MJ, Liu Y, Arapoglou T, Wang C, Ionita- Laza I, Lin X. A multi-dimensional integrative scoring framework for predicting functional variants in the human genome. *Am J Hum Genet*. 2022 Mar 01; 109(3):446-456. PMID: 35216679.
 
 Zhu H<sup>\#</sup>, Choi J<sup>\#</sup>, Kui N<sup>\#</sup>, Yang T, Wei P, Li D, **Sun R**. Identification of pancreatic cancer germline risk variants with effects that are modified by smoking. *JCO Precis Oncol*. 2024 Mar; 8:e2300355. PMID: 38564682.
-
-### <a name="articles"></a> High-dimensional inference for composite null hypotheses.
-
-Composite null hypotheses occur when we are interested in a set of individual null hypotheses, and we want to know whether all individual nulls in the set should be rejected simultaneously. This statistical challenge has many applications in translational genetics studies such as mediation analysis, pleiotropy analysis, and replication analysis. 
-
-**Sun, R**, McCaw Z, Lin, X. Testing a large number of composite null hypotheses using conditionally symmetric multidimensional gaussian mixtures in genome-wide studies. *Journal of the American Statistical Association*. 2024+ (accepted) https://arxiv.org/abs/2309.12584.
 
 ### <a name="articles"></a> Describing more robust methods for analysis of clinical trial data
 
