@@ -26,8 +26,10 @@ My research interests lie in developing novel statistical methodology that enabl
 ---
 
 # Recent News
-* 2024/10 - Our [paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2422124) on performing mediation, pleiotropy, and replication analyses in genome-wide studies has been accepted at the *Journal of the American Statistical Association*.
-* 2024/10 - New positions for postdoctoral fellows and GRAs are open in the lab. Please see our [job ad]({{ BASE_PATH }}/files/postdoc_ad_rsun.docx).
+* 2025/09 - Congratulations to Yung-Han Chang, who has won two travel awards to present her work on replication studies in lung cancer at IGES and ASHG, the [preprint](https://www.medrxiv.org/content/10.1101/2025.10.02.25337130v1) is also online.
+* 2025/08 - Naishu Kui has presented her work on reproducible research in genetic studies at JSM, the [preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665850v1) is also online.
+* 2025/05 - Welcome to the Postdoctoral Fellow, (Dr. Zili Liu), two new PhD students (Yung-Han Chang and Jae-Woo Chung), and two MS students (Siyi Wang and Emily Kim) that have joined our lab this year! We look forward to working together. 
+* 2025/01 - Our [paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2422124) on performing mediation, pleiotropy, and replication analyses in genome-wide studies has been published at the *Journal of the American Statistical Association*.
 * 2024/09 - We are grateful to NIGMS for the award of [1R35GM154843](https://reporter.nih.gov/search/3MAsCl2AykS7T5SLjlQMyA/project-details/10937675), which will fund new methodology development for large-scale testing of composite null hypotheses.
 * 2024/09 - Congratulations to our former lab member [Jaihee Choi](https://www.marquette.edu/mathematical-and-statistical-sciences/directory/jaihee-choi.php) on starting her new position as Assistant Professor in the Department of Mathematical and Statistical Sciences at Marquette University! Rice also offered their congratulations in a [press release](https://engineering.rice.edu/news/jaihee-choi-24-joins-faculty-marquette-university).
 * 2024/07 - Zhichao Xu's [paper](https://link.springer.com/article/10.1007/s12561-024-09448-3) on set-based inference for genetic association studies with competing risks outcomes is published in *Statistics in Biosciences*. 
