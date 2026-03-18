@@ -4,7 +4,7 @@ title: Funding
 description: Funding
 ---
 
-For a full list of funding (40+ grants), please see the [CV. ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun-aug2024.pdf)<br/>
+For a full list of funding (40+ grants), please see the [CV. ![CV as pdf](../pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/files/rsun_cv_2025.pdf)<br/>
 
 ### <a name="articles"></a> Major Grants
 **Principal Investigator**, Development of large-scale composite null hypothesis testing approaches to perform translational genetics analyses, NIH/NIGMS (PI: Ryan Sun), 1R35GM154843, 9/2024-8/2029, $1,250,000 direct costs  \\
