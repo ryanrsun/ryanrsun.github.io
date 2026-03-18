@@ -10,9 +10,9 @@ I am an Associate Professor in the
 at the University of Texas MD Anderson Cancer Center.
 I received my BS in Applied Mathematics from Columbia University in 2012
 and my PhD in Biostatistics from Harvard University in 2017.
-My PhD advisor was [Professor Xihong Lin](https://www.hsph.harvard.edu/xihong-lin/),
-and I also worked closely with [Professor Peter Kraft](https://www.hsph.harvard.edu/peter-kraft/),
-[Professor LJ Wei](https://www.hsph.harvard.edu/l-wei/), and [Professor David Christiani](https://www.hsph.harvard.edu/david-christiani/).
+My PhD advisor was [Professor Xihong Lin](https://hsph.harvard.edu/profile/xihong-lin/),
+and I also worked closely with [Professor Peter Kraft](https://www.hsph.harvard.edu/profile/peter-kraft/),
+[Professor LJ Wei](https://www.hsph.harvard.edu/profile/l-j-wei/), and [Professor David Christiani](https://www.hsph.harvard.edu/profile/david-c-christiani/).
 I remained at Harvard for my postdoctoral training and joined MD Anderson in July 2019.
 
 My research interests lie in developing novel statistical methodology that enables researchers to extract knowledge and insights from increasingly complex biomedical datasets. Please see the [Research](pages/pubs.md) page for short summaries of different areas of work.
